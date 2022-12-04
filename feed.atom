@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-03T00:27:10.412Z</id>
+    <id>urn:2022-12-04T00:28:31.758Z</id>
     <title>osmos::feed</title>
-    <updated>2022-12-03T00:27:10.412Z</updated>
+    <updated>2022-12-04T00:28:31.758Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -404,16 +404,6 @@ CSS Grid and Custom Shapes, Part 3 originally published on CSS-Tricks, which is 
         <summary type="html"><![CDATA[Let’s talk about Next.js, one of the most well-known React frameworks used for production. From new components to font optimization, Atila shares a quick overview and invites you to join his [Advanced Next.js Masterclass](https://smashingconf.com/online-workshops/workshops/advanced-nextjs-atila-fassina) taking place later this month.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Atila Fassina)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Practical Steps To Build Transparency In Your Remote Business]]></title>
-        <id>https://smashingmagazine.com/2022/11/practical-steps-build-transparency-remote-business/</id>
-        <link href="https://smashingmagazine.com/2022/11/practical-steps-build-transparency-remote-business/"/>
-        <updated>2022-11-04T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Transparency is part of the fabric of many remote businesses. It doesn’t, however, come naturally to everyone, especially if you’ve only recently become remote. In this article, Siobhan takes you through some of the practical ways that you can build transparency within your organization.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Siobhan McKeown)</name>
         </author>
     </entry>
 </feed>
