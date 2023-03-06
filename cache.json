@@ -80,16 +80,6 @@
           "wordCount": 2483,
           "title": "The Double Emphasis Thing",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376548"
-        },
-        {
-          "id": "https://css-tricks.com/?p=376676",
-          "author": "Temani Afif",
-          "description": "Do you know that kind of effect where someone’s head is poking through a circle or hole? The famous Porky Pig animation where he waves goodbye while popping out of a series of red rings is the perfect example, and …\nA Fancy Hover Effect For Your Avatar originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/a-fancy-hover-effect-for-your-avatar/",
-          "publishedOn": "2023-02-03T15:11:46.000Z",
-          "wordCount": 3214,
-          "title": "A Fancy Hover Effect For Your Avatar",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376676"
         }
       ]
     },
@@ -104,7 +94,7 @@
           "description": "In this article, Nick and Gleb cover the current state of design, answer common questions designers have about AI tools, and share practical tips on how designers can make the most of using AI tools.",
           "link": "https://smashingmagazine.com/2023/03/ai-technology-transform-design/",
           "publishedOn": "2023-03-03T11:00:00.000Z",
-          "wordCount": 5426,
+          "wordCount": 5431,
           "title": "How AI Technology Will Transform Design",
           "enclosure": {
             "url": "http://smashing-files.ams3.digitaloceanspaces.com/articles/ai-technology-transform-design/meta-ai-technology-transform-design.jpg",
@@ -134,7 +124,7 @@
           "description": "Let’s get ready for March with some fresh wallpapers! Designed with love by the community for the community, the wallpaper designs in this collection are available in versions with and without a calendar. Enjoy!",
           "link": "https://smashingmagazine.com/2023/02/desktop-wallpaper-calendars-march-2023/",
           "publishedOn": "2023-02-28T14:30:00.000Z",
-          "wordCount": 4879,
+          "wordCount": 4871,
           "title": "Daydreaming In March (2023 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-march-2023/mar-23-daydreaming-cal-800px-opt.png",
@@ -164,7 +154,7 @@
           "description": "Each time we build a field validation from scratch, accessibility doesn’t come out of the box. In this guide, Sandrina breaks down what we need to take into consideration, so that nobody gets stuck on an inaccessible invalid field.",
           "link": "https://smashingmagazine.com/2023/02/guide-accessible-form-validation/",
           "publishedOn": "2023-02-27T14:00:00.000Z",
-          "wordCount": 6733,
+          "wordCount": 6735,
           "title": "A Guide To Accessible Form Validation",
           "enclosure": {
             "url": "http://files.smashing.media/articles/guide-accessible-form-validation/guide-accessible-form-validation.jpg",
@@ -224,7 +214,7 @@
           "description": "In this episode of the Smashing Podcast, we ask what’s the key to a great keyboard? Is this essential part of our daily toolkit easily overlooked? Vitaly Friedman talks to expert Marcin Wichary to find out.",
           "link": "https://smashingmagazine.com/2023/02/smashing-podcast-episode-57/",
           "publishedOn": "2023-02-21T07:00:00.000Z",
-          "wordCount": 11610,
+          "wordCount": 11611,
           "title": "Smashing Podcast Episode 57 With Marcin Wichary: What’s The Key To A Great Keyboard?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-podcast-episode-57/meta-smashing-podcast-episode-57.png",
@@ -239,7 +229,7 @@
           "description": "An accessible product can be daunting to build as there’s so much nuance and technical depth to consider. In this article, Daniel Yuschick demonstrates three keys for approaching and developing accessible content without leaving you lost in the weeds.",
           "link": "https://smashingmagazine.com/2023/02/keys-accessibility-mindset/",
           "publishedOn": "2023-02-20T14:00:00.000Z",
-          "wordCount": 5482,
+          "wordCount": 5587,
           "title": "Keys To An Accessibility Mindset",
           "enclosure": {
             "url": "http://files.smashing.media/articles/keys-accessibility-mindset/keys-accessibility-mindset.jpg",
@@ -299,7 +289,7 @@
           "description": "In the first part of the series, Kirill Myshkin covers some aspects of JavaScript that help bring objects closer to primitive values, which allow benefiting from common language features that aren’t usually associated with an object, like comparisons and arithmetic operators.",
           "link": "https://smashingmagazine.com/2023/02/discovering-primitive-objects-javascript-part1/",
           "publishedOn": "2023-02-10T12:00:00.000Z",
-          "wordCount": 6065,
+          "wordCount": 6066,
           "title": "Discovering Primitive Objects In JavaScript (Part 1)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/discovering-primitive-objects-javascript-part1/discovering-primitive-objects-javascript-part1.jpg",
@@ -329,7 +319,7 @@
           "description": "In this article, Andy Budd shares his way of requesting feedback: rather than sharing a linear case study that explains every design revision, the first thing to do would be to better frame the problem.",
           "link": "https://smashingmagazine.com/2023/02/designers-ask-receive-high-quality-feedback/",
           "publishedOn": "2023-02-08T11:00:00.000Z",
-          "wordCount": 4633,
+          "wordCount": 4642,
           "title": "How Designers Should Ask For (And Receive) High-Quality Feedback",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designers-ask-receive-high-quality-feedback/designers-ask-receive-high-quality-feedback.jpg",
@@ -344,7 +334,7 @@
           "description": "In this episode of the Smashing Podcast we ask how has the design industry changed? Is technology making our work easier? Vitaly Friedman talks to veteran designer Veerle Pieters to find out.",
           "link": "https://smashingmagazine.com/2023/02/smashing-podcast-episode-56/",
           "publishedOn": "2023-02-07T09:30:00.000Z",
-          "wordCount": 11219,
+          "wordCount": 11221,
           "title": "Smashing Podcast Episode 56 With Veerle Pieters: How Has The Design Industry Changed?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-podcast-episode-56/smashing-podcast-episode-56.png",
@@ -359,7 +349,7 @@
           "description": "Web development, especially what you can do with CSS, has become increasingly complex. With the added capabilities of CSS Grid, it is now possible to achieve layouts that look like they were laid out by hand. Let’s tackle a practical example of how to do something like that.",
           "link": "https://smashingmagazine.com/2023/02/build-magazine-layout-css-grid-areas/",
           "publishedOn": "2023-02-06T13:00:00.000Z",
-          "wordCount": 5655,
+          "wordCount": 5647,
           "title": "How To Build A Magazine Layout With CSS Grid Areas",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-print-like-website-layout-css-grid-areas/build-magazine-layout-css-grid-areas.jpg",
