@@ -23,7 +23,7 @@
           "description": "As Artificial Intelligence becomes more widespread, so too does the adoption of digital agents and voice interactions. Explore the power of mixed reality systems and multimodal communication to enhance collaboration between consultants and clients, transforming advisory services.",
           "link": "https://smashingmagazine.com/2023/06/enable-collaboration-multiparty-setting/",
           "publishedOn": "2023-06-02T16:00:00.000Z",
-          "wordCount": 5513,
+          "wordCount": 5508,
           "title": "How To Enable Collaboration In A Multiparty Setting",
           "enclosure": {
             "url": "http://files.smashing.media/articles/enable-collaboration-multiparty-setting/enable-collaboration-multiparty-setting.jpg",
@@ -53,7 +53,7 @@
           "description": "Thanks to the Open UI working community group, there’s a new element on the horizon, <selectmenu>, that will make styling this type of form control a whole lot better. You’re going to walk through an early implementation of this new experimental element by creating a pattern that you would never have thought possible with CSS alone — a radial selection menu.",
           "link": "https://smashingmagazine.com/2023/06/advanced-form-control-styling-selectmenu-anchoring-api/",
           "publishedOn": "2023-06-01T10:00:00.000Z",
-          "wordCount": 6268,
+          "wordCount": 6265,
           "title": "Advanced Form Control Styling With Selectmenu And Anchoring API",
           "enclosure": {
             "url": "http://files.smashing.media/articles/advanced-form-control-styling-selectmenu-anchoring-api/advanced-form-control-styling-selectmenu-anchoring-api.jpg",
@@ -68,7 +68,7 @@
           "description": "Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers might be for you. Designed by artists and designers from across the globe, the wallpapers in this post come in versions with and without a calendar for June 2023. Enjoy!",
           "link": "https://smashingmagazine.com/2023/05/desktop-wallpaper-calendars-june-2023/",
           "publishedOn": "2023-05-31T08:00:00.000Z",
-          "wordCount": 5297,
+          "wordCount": 5295,
           "title": "Create Your Own Path In June (2023 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-june-2023/june-22-create-your-own-path-preview-opt.png",
@@ -83,7 +83,7 @@
           "description": "This article provides practical tips for improving the handoff process between design and development in product development. The guidance covers effective communication, documentation, design details, version control, and plugin usage.",
           "link": "https://smashingmagazine.com/2023/05/designing-better-design-handoff-file-figma/",
           "publishedOn": "2023-05-26T15:30:00.000Z",
-          "wordCount": 5806,
+          "wordCount": 5809,
           "title": "Designing A Better Design Handoff File In Figma",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-better-design-handoff-file-figma/designing-better-design-handoff-file-figma.jpg",
@@ -128,7 +128,7 @@
           "description": "In this episode of the Smashing Podcast, we’re talking about Web Platform Baseline. What is it, and how can it help determine your browser support policy? Drew McLellan talks to expert Rachel Andrew to find out.",
           "link": "https://smashingmagazine.com/2023/05/smashing-podcast-episode-61/",
           "publishedOn": "2023-05-23T08:00:00.000Z",
-          "wordCount": 10434,
+          "wordCount": 10430,
           "title": "Smashing Podcast Episode 61 With Rachel Andrew: What Is Web Platform Baseline?",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-podcast-episode-61/smashing-podcast-episode-61.png",
@@ -143,7 +143,7 @@
           "description": "It’s easy for beginner designers to get overwhelmed and lose confidence when creating presentations, landing pages, app and web design mockups, and even cards. Laurent Baumann shares a few simple guidelines and practical tips to help you in such situations.",
           "link": "https://smashingmagazine.com/2023/05/practical-design-tips-guidelines-beginner-designers/",
           "publishedOn": "2023-05-22T11:00:00.000Z",
-          "wordCount": 5578,
+          "wordCount": 5579,
           "title": "Practical Design Tips And Guidelines For Beginner Designers",
           "enclosure": {
             "url": "http://files.smashing.media/articles/practical-design-tips-guidelines-beginner-designers/practical-design-tips-guidelines-beginner-designers.jpg",
@@ -158,7 +158,7 @@
           "description": "The process of upgrading large third-party packages in equally large organizations is rarely, if ever, as easy as running an npm update and calling it a day in this context. Joran Quinten shares valuable lessons from his team’s experiences in upgrading third-party code that affects codebases across the entire organization.",
           "link": "https://smashingmagazine.com/2023/05/big-tooling-upgrades-large-organizations/",
           "publishedOn": "2023-05-17T10:00:00.000Z",
-          "wordCount": 5075,
+          "wordCount": 5079,
           "title": "How To Deal With Big Tooling Upgrades In Large Organizations",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-deal-big-tooling-upgrades-large-organizations/big-tooling-upgrades-large-organizations.jpg",
@@ -173,7 +173,7 @@
           "description": "Every company and team has to have deep collaboration between engineering and design to get the value out of a design system (and not go nuts). Building design patterns first unblock people to work in parallel, keeps people synced up, and results in reusable modules that speed up your next project.",
           "link": "https://smashingmagazine.com/2023/05/design-patterns-collaborate-design-system/",
           "publishedOn": "2023-05-16T11:00:00.000Z",
-          "wordCount": 5818,
+          "wordCount": 5816,
           "title": "Design Patterns Are A Better Way To Collaborate On Your Design System",
           "enclosure": {
             "url": "http://files.smashing.media/articles/design-patterns-collaborate-design-system/design-patterns-collaborate-design-system.jpg",
@@ -188,7 +188,7 @@
           "description": "This article covers common problems using CSS floats and how to solve them using a block formatting context (BFC). Whether you are a beginner or an experienced web developer, you will learn valuable insights and practical solutions for dealing with CSS float issues.",
           "link": "https://smashingmagazine.com/2023/05/media-object-float-issues-css-block-formatting-contexts/",
           "publishedOn": "2023-05-15T13:00:00.000Z",
-          "wordCount": 4855,
+          "wordCount": 4852,
           "title": "Solving Media Object Float Issues With CSS Block Formatting Contexts",
           "enclosure": {
             "url": "http://files.smashing.media/articles/media-object-float-issues-css-block-formatting-contexts/media-object-float-issues-css-block-formatting-contexts.jpg",
@@ -203,7 +203,7 @@
           "description": "Are sticky headers always a good idea? Best practices for designing sticky headers, with examples, UX guidelines and usability considerations.",
           "link": "https://smashingmagazine.com/2023/05/sticky-menus-ux-guidelines/",
           "publishedOn": "2023-05-12T11:00:00.000Z",
-          "wordCount": 3906,
+          "wordCount": 3904,
           "title": "Designing Sticky Menus: UX Guidelines",
           "enclosure": {
             "url": "http://files.smashing.media/articles/sticky-menus-ux-guidelines/sticky-menus-ux-guidelines.jpg",
@@ -233,7 +233,7 @@
           "description": "The Redux Toolkit documentation calls the library a better way to write Redux logic for React apps and a simple and efficient toolkit for Redux development. In this article, you will learn about the Redux toolkit by building an app that tracks project issues.",
           "link": "https://smashingmagazine.com/2023/05/guide-redux-toolkit-typescript/",
           "publishedOn": "2023-05-10T10:00:00.000Z",
-          "wordCount": 5976,
+          "wordCount": 5973,
           "title": "A Guide To Redux Toolkit With TypeScript",
           "enclosure": {
             "url": "http://files.smashing.media/articles/guide-redux-toolkit-typescript/guide-redux-toolkit-typescript.jpg",
@@ -248,7 +248,7 @@
           "description": "The rise of Artificial Intelligence (AI) in recent times has incited fear in many over losing their jobs. However, that shouldn’t be the case. On the contrary, AI is an opportunity to take your programming to the next level when used tactfully with the right knowledge, as we’ll cover today.",
           "link": "https://smashingmagazine.com/2023/05/ai-tools-skyrocket-programming-productivity/",
           "publishedOn": "2023-05-09T09:00:00.000Z",
-          "wordCount": 6392,
+          "wordCount": 6493,
           "title": "How To Use AI Tools To Skyrocket Your Programming Productivity",
           "enclosure": {
             "url": "http://files.smashing.media/articles/ai-tools-skyrocket-programming-productivity/ai-tools-skyrocket-programming-productivity.jpg",
@@ -263,7 +263,7 @@
           "description": "Want to make sure your API keys are safe and sound when working with React? Jessica Joseph’s got you covered! She will show you the best ways to hide your API keys, from using environment variables to building your own back-end proxy server.",
           "link": "https://smashingmagazine.com/2023/05/safest-way-hide-api-keys-react/",
           "publishedOn": "2023-05-08T13:00:00.000Z",
-          "wordCount": 4442,
+          "wordCount": 4448,
           "title": "The Safest Way To Hide Your API Keys When Using React",
           "enclosure": {
             "url": "http://files.smashing.media/articles/safest-way-hide-api-keys-react/safest-way-hide-api-keys-react.jpg",
