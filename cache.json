@@ -68,7 +68,7 @@
           "description": "[“Gatsby headaches”](https://www.smashingmagazine.com/2023/06/gatsby-headaches-i18n-part-1/) are over. Juan Diego Rodríguez reflects on his decision to stop using Gatsby as his go-to framework. Through a detailed examination of its strengths and weaknesses, he provides valuable insights and alternative options for developers navigating their tooling choices.",
           "link": "https://smashingmagazine.com/2024/03/end-of-gatsby-journey/",
           "publishedOn": "2024-03-06T08:00:00.000Z",
-          "wordCount": 5963,
+          "wordCount": 5962,
           "title": "The End Of My Gatsby Journey",
           "enclosure": {
             "url": "http://files.smashing.media/articles/end-of-gatsby-journey/end-of-gatsby-journey.jpg",
@@ -83,7 +83,7 @@
           "description": "Tooltips are a very common pattern used in CSS for years. There are a lot of ways to approach tooltips in CSS, though some evoke headaches with all the magic numbers they require. In this article, Temani Afif presents modern techniques to create tooltips with the smallest amount of markup and the greatest amount of flexibility.",
           "link": "https://smashingmagazine.com/2024/03/modern-css-tooltips-speech-bubbles-part1/",
           "publishedOn": "2024-03-01T12:00:00.000Z",
-          "wordCount": 6325,
+          "wordCount": 6328,
           "title": "Modern CSS Tooltips And Speech Bubbles (Part 1)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/modern-css-tooltips-part1/modern-css-tooltips-speech-bubbles.jpg",
@@ -98,7 +98,7 @@
           "description": "Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers is for you. Designed by artists and designers from across the globe, they come in versions with and without a calendar for March 2024. Enjoy!",
           "link": "https://smashingmagazine.com/2024/02/desktop-wallpaper-calendars-march-2024/",
           "publishedOn": "2024-02-29T10:00:00.000Z",
-          "wordCount": 4763,
+          "wordCount": 4767,
           "title": "Waiting For Spring (March 2024 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-march-2024/mar-24-breaking-superstitions-preview-opt.png",
@@ -128,7 +128,7 @@
           "description": "Digital designer Yichan Wang has put together this collection of strategies and selling points to help you encourage and advocate for accessibility in your place of work, including useful scripts you can use as starting points.",
           "link": "https://smashingmagazine.com/2024/02/web-designer-accessibility-advocacy-toolkit/",
           "publishedOn": "2024-02-26T18:00:00.000Z",
-          "wordCount": 8426,
+          "wordCount": 8433,
           "title": "A Web Designer’s Accessibility Advocacy Toolkit",
           "enclosure": {
             "url": "http://files.smashing.media/articles/web-designer-accessibility-advocacy-toolkit/web-designer-accessibility-advocacy-toolkit.jpg",
@@ -143,7 +143,7 @@
           "description": "It’s well-established that the web faces wide-ranging usability and performance issues, from user-hostile UI patterns and twisted search results to sluggish performance and battery-draining bloat. In this article, Frederik examines one small-but-significant aspect where developers take the reins: Painting pixels on the screen.",
           "link": "https://smashingmagazine.com/2024/02/vanilla-javascript-libraries-quest-stateful-dom-rendering/",
           "publishedOn": "2024-02-22T18:00:00.000Z",
-          "wordCount": 4757,
+          "wordCount": 4750,
           "title": "Vanilla JavaScript, Libraries, And The Quest For Stateful DOM Rendering",
           "enclosure": {
             "url": "http://files.smashing.media/articles/vanilla-javascript-libraries-quest-stateful-dom-rendering/vanilla-javascript-libraries-quest-stateful-dom-rendering.jpg",
@@ -158,7 +158,7 @@
           "description": "Color accessibility is more than just ticking boxes. Even with good contrast, some color palettes can make interfaces challenging for users. Here are some practical guidelines to ensure more inclusive design for colorblind people. An upcoming part of Smart Interface Design Patterns.",
           "link": "https://smashingmagazine.com/2024/02/designing-for-colorblindness/",
           "publishedOn": "2024-02-20T12:00:00.000Z",
-          "wordCount": 3562,
+          "wordCount": 3558,
           "title": "A Practical Guide To Designing For Colorblind People",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-for-colorblindness/designing-for-colorblindness.jpg",
