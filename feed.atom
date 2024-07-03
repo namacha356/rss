@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-02T00:31:26.168Z</id>
+    <id>urn:2024-07-03T00:30:36.126Z</id>
     <title>osmos::feed</title>
-    <updated>2024-07-02T00:31:26.168Z</updated>
+    <updated>2024-07-03T00:30:36.126Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Work with Tables in Excel vs Google Sheets]]></title>
+        <id>https://www.freecodecamp.org/news/excel-vs-google-sheets-tables/</id>
+        <link href="https://www.freecodecamp.org/news/excel-vs-google-sheets-tables/"/>
+        <updated>2024-07-02T17:27:11.000Z</updated>
+        <summary type="html"><![CDATA[Google Sheets recently released an all new feature: tables. Well, new is a bit of an overstatement. Excel has had proper tables for many, many years, and it's been a point of contention in the spreadsheet community. In this article, I'll break down what exactly tables are, why they're important,]]></summary>
+        <author>
+            <name>Eamonn Cottrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Improve Your JavaScript Code with Powerful Build Tool Configs]]></title>
+        <id>https://www.freecodecamp.org/news/improve-your-javascript-projects-with-build-tools/</id>
+        <link href="https://www.freecodecamp.org/news/improve-your-javascript-projects-with-build-tools/"/>
+        <updated>2024-07-02T15:56:38.000Z</updated>
+        <summary type="html"><![CDATA[I have been a frontend developer for over 6 years now, mostly working with Javascript, TypeScript, and React. When stepping into the world of the front end, the number of libraries and build tools available can be overwhelming – especially since each has its own configuration options. At first these]]></summary>
+        <author>
+            <name>Keyur Paralkar</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Go for Absolute Beginners]]></title>
         <id>https://www.freecodecamp.org/news/go-for-absolute-beginners/</id>
@@ -96,6 +116,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Transitioning to Auto Height]]></title>
+        <id>https://css-tricks.com/?p=378862</id>
+        <link href="https://css-tricks.com/transitioning-to-auto-height/"/>
+        <updated>2024-06-28T13:44:01.000Z</updated>
+        <summary type="html"><![CDATA[I know this is something Chris has wanted forever, so it’s no surprise he’s already got a fantastic write-up just a day after the news broke. In fact, I first learned about it from his post and was unable …
+Transitioning to Auto Height originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How To Improve Your Microcopy: UX Writing Tips For Non-UX Writers]]></title>
         <id>https://smashingmagazine.com/2024/06/how-improve-microcopy-ux-writing-tips-non-ux-writers/</id>
         <link href="https://smashingmagazine.com/2024/06/how-improve-microcopy-ux-writing-tips-non-ux-writers/"/>
@@ -106,23 +137,14 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Migrate from Play Core Library]]></title>
-        <id>https://www.freecodecamp.org/news/migrate-from-play-core-library/</id>
-        <link href="https://www.freecodecamp.org/news/migrate-from-play-core-library/"/>
-        <updated>2024-06-26T17:53:46.000Z</updated>
-        <summary type="html"><![CDATA[You may have recently received an email from Google Play Store stating the following: > Update your Play Core Maven dependency to an Android 14 compatible version! Your current Play Core library is incompatible with targetSdkVersion 34 (Android 14), which introduces a backwards-incompatible change to broadcast receivers to improve user]]></summary>
+        <title type="html"><![CDATA[Poppin’ In]]></title>
+        <id>https://css-tricks.com/?p=378637</id>
+        <link href="https://css-tricks.com/poppin-in/"/>
+        <updated>2024-06-26T16:37:05.000Z</updated>
+        <summary type="html"><![CDATA[Oh, hey there! It’s been a hot minute, hasn’t it? Thought I’d pop in and say hello while we get to know the Popover API a bit.
+Poppin’ In originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
-            <name>Tomer Ben Rachel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a RAG Chatbot with Agent Cloud and Google Sheets]]></title>
-        <id>https://www.freecodecamp.org/news/build-a-rag-chatbot-agent-cloud-google-sheets/</id>
-        <link href="https://www.freecodecamp.org/news/build-a-rag-chatbot-agent-cloud-google-sheets/"/>
-        <updated>2024-06-26T14:43:10.000Z</updated>
-        <summary type="html"><![CDATA[Today's companies are data factories. Every interaction, transaction, and internal process generates a constant stream of information. This data holds immense value, promising to improve decision-making, streamline operations, and unlock deep customer insights.  But data often remains siloed and inaccessible. It may be spread across different departments and systems,]]></summary>
-        <author>
-            <name>Ankur Tyagi</name>
+            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
@@ -133,6 +155,94 @@
         <summary type="html"><![CDATA[Gaining buy-in for accessibility can be challenging due to common myths and misunderstandings. For many, accessibility remains a big mystery. Here are some practical techniques for winning stakeholder support. Part of [Smart Interface Design Patterns](https://smart-interface-design-patterns.com) by yours truly.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://css-tricks.com/?p=378960</id>
+        <link href="https://css-tricks.com/378960-2/"/>
+        <updated>2024-06-24T18:28:26.000Z</updated>
+        <summary type="html"><![CDATA[CSS Meditation #8: .work + .life { border: 10px solid #000; }…
+ originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://css-tricks.com/?p=378958</id>
+        <link href="https://css-tricks.com/378958-2/"/>
+        <updated>2024-06-24T18:27:59.000Z</updated>
+        <summary type="html"><![CDATA[CSS Meditation #7: Nobody is perf-ect.…
+ originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://css-tricks.com/?p=378956</id>
+        <link href="https://css-tricks.com/378956-2/"/>
+        <updated>2024-06-24T18:27:28.000Z</updated>
+        <summary type="html"><![CDATA[CSS Meditation #6: The color space is always calc(rgb(0 255 0)+er) on the other side of the fence.…
+ originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://css-tricks.com/?p=378954</id>
+        <link href="https://css-tricks.com/378954-2/"/>
+        <updated>2024-06-24T18:26:50.000Z</updated>
+        <summary type="html"><![CDATA[CSS Meditation #5: :where(:is(.my-mind))…
+ originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://css-tricks.com/?p=378952</id>
+        <link href="https://css-tricks.com/378952-2/"/>
+        <updated>2024-06-24T18:26:12.000Z</updated>
+        <summary type="html"><![CDATA[CSS Meditation #4: Select, style, adjust. Select, style, adjust. Select, sty……
+ originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://css-tricks.com/?p=378950</id>
+        <link href="https://css-tricks.com/378950-2/"/>
+        <updated>2024-06-24T18:25:41.000Z</updated>
+        <summary type="html"><![CDATA[CSS Meditation #3: A pseudo is as a pseudo does.…
+ originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://css-tricks.com/?p=378948</id>
+        <link href="https://css-tricks.com/378948-2/"/>
+        <updated>2024-06-24T18:25:14.000Z</updated>
+        <summary type="html"><![CDATA[CSS Meditation #2: Who gives a flying frick what constitutes a “programming” language.…
+ originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://css-tricks.com/?p=378946</id>
+        <link href="https://css-tricks.com/378946-2/"/>
+        <updated>2024-06-24T18:22:35.000Z</updated>
+        <summary type="html"><![CDATA[CSS Meditation #1: If the code works as expected and it fits your mental model, then it’s perfect.…
+ originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
@@ -226,6 +336,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[CSS Container Queries]]></title>
+        <id>https://css-tricks.com/?p=378111</id>
+        <link href="https://css-tricks.com/css-container-queries/"/>
+        <updated>2024-06-10T16:12:50.000Z</updated>
+        <summary type="html"><![CDATA[The main idea of CSS Container Queries is to register an element as a “container” and apply styles to other elements when the container element meets certain conditions. 
+CSS Container Queries originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Useful CSS Tips And Techniques]]></title>
         <id>https://smashingmagazine.com/2024/06/css-tips-and-techniques/</id>
         <link href="https://smashingmagazine.com/2024/06/css-tips-and-techniques/"/>
@@ -253,6 +374,17 @@
         <summary type="html"><![CDATA[The web is still a young platform, and we’re only now beginning to recognize what “success” looks like for large projects. In his recent Smashing book, [Success at Scale](https://www.smashingmagazine.com/printed-books/success-at-scale/), Addy Osmani presents practical case studies featuring the web’s most renowned companies and their efforts to make big changes to existing apps and sites. In this article, Addy shows some of the key insights he has learned.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Addy Osmani)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Length Units]]></title>
+        <id>https://css-tricks.com/?p=375815</id>
+        <link href="https://css-tricks.com/css-length-units/"/>
+        <updated>2024-06-03T19:22:02.000Z</updated>
+        <summary type="html"><![CDATA[A comprehensive guide covering nine types of lengths that CSS uses to size elements in terms of dimensions, space, time, and even sound.
+CSS Length Units originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
         </author>
     </entry>
 </feed>
