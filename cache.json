@@ -27,7 +27,7 @@
           "description": "I have to thank Jeremy Keith and his wonderfully insightful article from late last year that introduced me to the concept of HTML Web Components. This was the “a-ha!” moment for me:\nWhen you wrap some existing markup in a \n…\nHTML Web Components Make Progressive Enhancement and CSS Encapsulation Easier! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/html-web-components-make-progressive-enhancement-and-css-encapsulation-easier/",
           "publishedOn": "2024-08-01T13:21:37.000Z",
-          "wordCount": 3687,
+          "wordCount": 3778,
           "title": "HTML Web Components Make Progressive Enhancement and CSS Encapsulation Easier!",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/379335"
         },
@@ -132,7 +132,7 @@
           "description": "A few sirens went off a couple of weeks ago when the CSS Working Group (CSSWG) resolved to add an if() conditional to the CSS Values Module Level 5 specification. It was Lea Verou’s X post that same day that …\n“If” CSS Gets Inline Conditionals originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/if-css-gets-inline-conditionals/",
           "publishedOn": "2024-07-09T15:18:11.000Z",
-          "wordCount": 3515,
+          "wordCount": 3525,
           "title": "“If” CSS Gets Inline Conditionals",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/379002"
         }
@@ -144,12 +144,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/08/time-to-talk-about-css5/",
+          "author": "hello@smashingmagazine.com (Brecht De Ruyte)",
+          "description": "Have you ever wondered what happened after CSS3? It’s common knowledge that we never saw CSS4 come after it, yet we have a plethora of new features that have no similar way of defining when they were introduced. The W3C CSS-Next community group is actively searching for better approaches for how we describe the evolution of CSS over time and identify feature sets as effectively as we did with CSS3 way back in 2009 — and you can help.",
+          "link": "https://smashingmagazine.com/2024/08/time-to-talk-about-css5/",
+          "publishedOn": "2024-08-05T10:00:00.000Z",
+          "wordCount": 5087,
+          "title": "It’s Time To Talk About “CSS5”",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/time-to-talk-about-css5/time-to-talk-about-css5.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/time-to-talk-about-css5/time-to-talk-about-css5.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/08/thoughts-after-15-years-spent-ux-design-part1/",
           "author": "hello@smashingmagazine.com (Andrii Zhdan)",
           "description": "In this two-part series, Andrii Zhdan outlines common challenges faced at the start of a design career and offers advice to smooth your journey based on insights from his experience hiring designers. Learn why mastering design tools is crucial, how to build a strong portfolio, and tips for acing your first interviews.",
           "link": "https://smashingmagazine.com/2024/08/thoughts-after-15-years-spent-ux-design-part1/",
           "publishedOn": "2024-08-02T11:00:00.000Z",
-          "wordCount": 6498,
+          "wordCount": 6495,
           "title": "If I Was Starting My Career Today: Thoughts After 15 Years Spent In UX Design (Part 1)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/thoughts-after-15-years-spent-ux-design-part1/thoughts-after-15-years-spent-ux-design.jpg",
@@ -179,7 +194,7 @@
           "description": "Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers might be for you. Designed by the community for the community, they come in versions with and without a calendar for August 2024. Enjoy!",
           "link": "https://smashingmagazine.com/2024/07/desktop-wallpaper-calendars-august-2024/",
           "publishedOn": "2024-07-31T09:30:00.000Z",
-          "wordCount": 4796,
+          "wordCount": 4785,
           "title": "Sweet Nostalgia In August (2024 Wallpapers Edition)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-august-2024/aug-23-summer-day-preview-opt.png",
@@ -194,7 +209,7 @@
           "description": "Many UX professionals often find themselves working alone, and usually face more projects impacting user experience than they can handle. In this article, Paul Boag explains how UX teams can be transformed into a significant driver of customer-centric innovation within organizations.",
           "link": "https://smashingmagazine.com/2024/07/rethinking-role-ux-teams-mov-beyond-firefighting/",
           "publishedOn": "2024-07-29T18:00:00.000Z",
-          "wordCount": 4299,
+          "wordCount": 4300,
           "title": "Rethinking The Role Of Your UX Teams And Move Beyond Firefighting",
           "enclosure": {
             "url": "http://files.smashing.media/articles/rethinking-role-ux-teams-mov-beyond-firefighting/rethinking-role-ux-teams-mov-beyond-firefighting.jpg",
@@ -209,7 +224,7 @@
           "description": "Joas Pambou built an app that integrates vision language models (VLMs) and text-to-speech (TTS) AI technologies to describe images audibly with speech. This audio description tool can be a big help for people with sight challenges to understand what’s in an image. But how this does it even work? Joas explains how these AI systems work and their potential uses, including how he built the app and ways to further improve it.",
           "link": "https://smashingmagazine.com/2024/07/integrating-image-to-text-and-text-to-speech-models-part1/",
           "publishedOn": "2024-07-24T10:00:00.000Z",
-          "wordCount": 6394,
+          "wordCount": 6397,
           "title": "Integrating Image-To-Text And Text-To-Speech Models (Part 1)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/integrating-image-to-text-and-text-to-speech-models-part1/integrating-image-to-text-and-text-to-speech-models-part1.jpg",
@@ -224,7 +239,7 @@
           "description": "WCAG provides guidance for making interactive elements more accessible by specifying minimum size requirements. In this article, Eric Bailey discusses the nuances of interactive element sizes and clarifies what it looks like to provide accessible interactive experiences using WCAG-compliant target sizes.",
           "link": "https://smashingmagazine.com/2024/07/getting-bottom-minimum-wcag-conformant-interactive-element-size/",
           "publishedOn": "2024-07-19T13:00:00.000Z",
-          "wordCount": 5275,
+          "wordCount": 5283,
           "title": "Getting To The Bottom Of Minimum WCAG-Conformant Interactive Element Size",
           "enclosure": {
             "url": "http://files.smashing.media/articles/getting-bottom-minimum-wcag-conformant-interactive-element-size/getting-bottom-minimum-wcag-conformant-interactive-element-size.jpg",
@@ -254,7 +269,7 @@
           "description": "This in-depth guide takes you through the three crucial phases of conversational search, revealing how users express their needs, explore results, and refine their queries. Learn how AI agents can overcome communication barriers, personalize the search experience, and adapt to evolving user intent.",
           "link": "https://smashingmagazine.com/2024/07/how-design-effective-conversational-ai-experiences-guide/",
           "publishedOn": "2024-07-15T09:00:00.000Z",
-          "wordCount": 5503,
+          "wordCount": 5508,
           "title": "How To Design Effective Conversational AI Experiences: A Comprehensive Guide",
           "enclosure": {
             "url": "http://files.smashing.media/articles/how-design-effective-conversational-ai-experiences-guide/how-design-effective-conversational-ai-experiences-guide.jpg",
@@ -269,7 +284,7 @@
           "description": "Today, UX design contributes to the problem of excessive consumption through persuasive e-commerce practices and designing for companies with linear and exploitative business models. Anna Rátkai explores practical steps we can take to reduce material consumption and the massive environmental impact that comes along with it by designing mindful shopping experiences.",
           "link": "https://smashingmagazine.com/2024/07/designing-sustainable-e-commerce-experiences/",
           "publishedOn": "2024-07-10T13:00:00.000Z",
-          "wordCount": 5411,
+          "wordCount": 5387,
           "title": "When Friction Is A Good Thing: Designing Sustainable E-Commerce Experiences",
           "enclosure": {
             "url": "http://files.smashing.media/articles/designing-sustainable-e-commerce-experiences/designing-sustainable-e-commerce-experiences.jpg",
@@ -300,6 +315,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-build-an-event-app-with-node-js/",
+          "author": "Ijeoma Igboagu",
+          "description": "Node.js it’s a runtime environment that allows you to run JavaScript code on the server side for building server-side applications. It works well for creating fast and scalable applications.  In this article, I will use a simple event management app as an example to show you how to build",
+          "link": "https://www.freecodecamp.org/news/how-to-build-an-event-app-with-node-js/",
+          "publishedOn": "2024-08-05T17:56:13.000Z",
+          "wordCount": 3294,
+          "title": "How to Build an Application With Node.js",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/08/How-to-Build-an-Application-With-Node.js.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/encoding-and-decoding-data-in-golang/",
+          "author": "Destiny Erhabor",
+          "description": "When building web applications in Golang, working with JSON data is inevitable. Whether you're sending responses to clients or parsing requests, JSON encoding and decoding are essential skills to master.  In this article, we'll explore the different ways to encode and decode JSON in Golang. Table of Contents",
+          "link": "https://www.freecodecamp.org/news/encoding-and-decoding-data-in-golang/",
+          "publishedOn": "2024-08-05T13:00:54.000Z",
+          "wordCount": 2567,
+          "title": "How to Send and Parse JSON Data in Golang – Data Encoding and Decoding Explained With Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/07/ferenc-almasi-HfFoo4d061A-unsplash.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/where-data-science-meets-sports-analytics-with-ken-jee-podcast-interview-135/",
           "author": "Quincy Larson",
@@ -379,26 +414,6 @@
           "wordCount": 1839,
           "title": "Prompt Engineering Basics – How to Write Effective AI Prompts",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/07/Screenshot-from-2024-07-27-11-25-56.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/using-entity-framework-core-with-mongodb/",
-          "author": "Beau Carnes",
-          "description": "Entity Framework Core is a popular ORM (Object-Relational Mapper) for .NET applications, allowing developers to work with databases using .NET objects. It can be used with many types of databases, including MongoDB. In this article, you will learn ho...",
-          "link": "https://www.freecodecamp.org/news/using-entity-framework-core-with-mongodb/",
-          "publishedOn": "2024-07-29T14:45:20.000Z",
-          "wordCount": 7312,
-          "title": "Using Entity Framework Core with MongoDB",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1721834746254/fb4a9197-8076-48a5-b402-116d8289863c.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/use-local-storage-in-blazor-apps/",
-          "author": "FADAHUNSI SEYI SAMUEL",
-          "description": "One critical feature of modern web applications is their ability to store and retrieve data on the client side [https://www.cloudflare.com/learning/serverless/glossary/client-side-vs-server-side/] . This is where local storage [https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage] comes into play. In this article, we'll explore how to leverage the power of the Blazored LocalStorage NuGet package [https://www.nuget.org/packages/Blazored.LocalStorage] to seamlessly integrate",
-          "link": "https://www.freecodecamp.org/news/use-local-storage-in-blazor-apps/",
-          "publishedOn": "2024-07-29T13:55:34.000Z",
-          "wordCount": 3436,
-          "title": "How to Add Local Storage to Your Blazor Apps with Blazored.LocalStorage",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/07/pexels-pixabay-236698.jpg"
         }
       ]
     }
