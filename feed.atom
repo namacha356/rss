@@ -1,10 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-08-07T00:33:00.530Z</id>
+    <id>urn:2024-08-08T00:32:11.002Z</id>
     <title>osmos::feed</title>
-    <updated>2024-08-07T00:33:00.530Z</updated>
+    <updated>2024-08-08T00:32:11.002Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Create a PC game using JavaScript]]></title>
+        <id>https://www.freecodecamp.org/news/create-a-pc-game-using-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/create-a-pc-game-using-javascript/"/>
+        <updated>2024-08-07T14:00:45.000Z</updated>
+        <summary type="html"><![CDATA[Did you know you can create PC games using JavaScript? We just published a course on the freeCodeCamp.org YouTube channel that will teach you all about making a Flappy Bird-like game in JavaScript with the KAPLAY library, and how to use Tauri to pack...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is a Kalman Filter? How to Simplify Noisy Data in Navigation and Finance]]></title>
+        <id>https://www.freecodecamp.org/news/what-is-a-kalman-filter-with-python-code-examples/</id>
+        <link href="https://www.freecodecamp.org/news/what-is-a-kalman-filter-with-python-code-examples/"/>
+        <updated>2024-08-07T13:42:54.000Z</updated>
+        <summary type="html"><![CDATA[In a world where precision is key, handling noisy data effectively is crucial for solving complex problems. Whether you're trying to control a rocket or forecast the stock market, the ability to get good data from an uncertain environment is important. This is exactly the problem Kalman filters help solve.]]></summary>
+        <author>
+            <name>Tiago Monteiro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Olympic Rings]]></title>
+        <id>https://css-tricks.com/?p=379541</id>
+        <link href="https://css-tricks.com/css-olympic-rings/"/>
+        <updated>2024-08-07T13:10:56.000Z</updated>
+        <summary type="html"><![CDATA[It was a few years ago during the 2020 Olympics in Tokyo 2020 that I made a demo of animated 3D Olympic rings. I like it, it looks great, and I love the effect of the rings crossing each other.…
+CSS Olympic Rings originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Amit Sheen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Common React Mistakes to Avoid]]></title>
+        <id>https://www.freecodecamp.org/news/react-common-mistakes/</id>
+        <link href="https://www.freecodecamp.org/news/react-common-mistakes/"/>
+        <updated>2024-08-06T22:19:05.000Z</updated>
+        <summary type="html"><![CDATA[React is a highly popular and powerful JavaScript library for user interface development. Its component-based architecture, combined with its declarative nature, is one of the primary reasons it works well for both small and large-scale applications.  But like with any technology, there are pitfalls that you can fall into]]></summary>
+        <author>
+            <name>Scott Gary</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learn About Operating Systems In-Depth]]></title>
         <id>https://www.freecodecamp.org/news/learn-about-operating-systems-in-depth/</id>
@@ -66,6 +107,19 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[(Hyper) Links About (Hyper) Links]]></title>
+        <id>https://css-tricks.com/?p=379420</id>
+        <link href="https://css-tricks.com/hyper-links-about-hyper-links/"/>
+        <updated>2024-08-02T16:41:54.000Z</updated>
+        <summary type="html"><![CDATA[Heydon on the virtues of hyperlinking hypertext in an anchor element:
+Sometimes, the <a> is referred to as a hyperlink, or simply a link. But it is not one of these and people who say it is one are 
+…
+(Hyper) Links About (Hyper) Links originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Where Data Science meets Sports Analytics with Ken Jee [Podcast Interview #135]]]></title>
         <id>https://www.freecodecamp.org/news/where-data-science-meets-sports-analytics-with-ken-jee-podcast-interview-135/</id>
         <link href="https://www.freecodecamp.org/news/where-data-science-meets-sports-analytics-with-ken-jee-podcast-interview-135/"/>
@@ -96,16 +150,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build an Invoice SaaS App with Next.js, Resend, Clerk and Neon Postgres]]></title>
-        <id>https://www.freecodecamp.org/news/build-an-invoice-saas-app-with-next-js-and-neon-postgres/</id>
-        <link href="https://www.freecodecamp.org/news/build-an-invoice-saas-app-with-next-js-and-neon-postgres/"/>
-        <updated>2024-08-01T20:58:01.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, you will learn how to build an invoicing web app that allows users to add their bank information, manage a list of customers, and create and send invoices to customers. You'll also learn how to print and send React components as invoices and email templates directly from]]></summary>
-        <author>
-            <name>Ankur Tyagi</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How To Build A Multilingual Website With Nuxt.js]]></title>
         <id>https://smashingmagazine.com/2024/08/how-build-multilingual-website-nuxt-i18n/</id>
         <link href="https://smashingmagazine.com/2024/08/how-build-multilingual-website-nuxt-i18n/"/>
@@ -116,23 +160,38 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn RAG Fundamentals and Advanced Techniques]]></title>
-        <id>https://www.freecodecamp.org/news/learn-rag-fundamentals-and-advanced-techniques/</id>
-        <link href="https://www.freecodecamp.org/news/learn-rag-fundamentals-and-advanced-techniques/"/>
-        <updated>2024-08-01T14:37:22.000Z</updated>
-        <summary type="html"><![CDATA[Understanding how to enhance the capabilities of AI and machine learning systems is a valuable skill. One method is Retrieval-Augmented Generation (RAG), a powerful technique that combines retrieval-based methods with generative models to create more...]]></summary>
+        <title type="html"><![CDATA[HTML Web Components Make Progressive Enhancement and CSS Encapsulation Easier!]]></title>
+        <id>https://css-tricks.com/?p=379335</id>
+        <link href="https://css-tricks.com/html-web-components-make-progressive-enhancement-and-css-encapsulation-easier/"/>
+        <updated>2024-08-01T13:21:37.000Z</updated>
+        <summary type="html"><![CDATA[I have to thank Jeremy Keith and his wonderfully insightful article from late last year that introduced me to the concept of HTML Web Components. This was the “a-ha!” moment for me:
+When you wrap some existing markup in a 
+…
+HTML Web Components Make Progressive Enhancement and CSS Encapsulation Easier! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
-            <name>Beau Carnes</name>
+            <name>Kev Bonett</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Add JWT-Based Authentication in NestJS]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-add-jwt-based-authentication-in-nest-js/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-add-jwt-based-authentication-in-nest-js/"/>
-        <updated>2024-07-31T14:33:47.000Z</updated>
-        <summary type="html"><![CDATA[Authentication is a very important aspect of software development. It is the process of verifying a user’s identity. Authentication ensures that only authorized individuals access specific resources or perform certain actions within a system. It provides accountability by enabling the tracking of user actions and holding individuals responsible for their]]></summary>
+        <title type="html"><![CDATA[CSS Functions and Mixins Module Notes]]></title>
+        <id>https://css-tricks.com/?p=378995</id>
+        <link href="https://css-tricks.com/css-functions-and-mixins-module-notes/"/>
+        <updated>2024-07-31T20:25:35.000Z</updated>
+        <summary type="html"><![CDATA[Most days, I’m writing vanilla CSS. Thanks to CSS variables and nesting, I have fewer reasons to reach for Sass or any other preprocessor. The times I reach for Sass tend to be when I need a @mixin to loop …
+CSS Functions and Mixins Module Notes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
-            <name>Abimbola Adedotun</name>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Where You Can Still Get A Book Apart Titles]]></title>
+        <id>https://css-tricks.com/?p=379392</id>
+        <link href="https://css-tricks.com/where-you-can-still-get-a-book-apart-titles/"/>
+        <updated>2024-07-31T14:52:44.000Z</updated>
+        <summary type="html"><![CDATA[It’s been a few months out since A Book Apart closed shop. I’m sad about it, of course. You probably are, too, if you have one of their many brightly-colored paperbacks sitting on a bookshelf strategically placed as a backdrop …
+Where You Can Still Get A Book Apart Titles originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
@@ -146,6 +205,18 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Smashing Hour With Dave Rupert]]></title>
+        <id>https://css-tricks.com/?p=379381</id>
+        <link href="https://css-tricks.com/smashing-hour-with-dave-rupert/"/>
+        <updated>2024-07-30T14:16:49.000Z</updated>
+        <summary type="html"><![CDATA[Smashing Magazine invited me to sit down for a one-on-one with “Uncle” Dave Rupert to discuss web components, yes, but also check in on Dave’s new Microsoft gig and what the ShopTalk co-host is working on these days.
+I first …
+Smashing Hour With Dave Rupert originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Rethinking The Role Of Your UX Teams And Move Beyond Firefighting]]></title>
         <id>https://smashingmagazine.com/2024/07/rethinking-role-ux-teams-mov-beyond-firefighting/</id>
         <link href="https://smashingmagazine.com/2024/07/rethinking-role-ux-teams-mov-beyond-firefighting/"/>
@@ -156,6 +227,29 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Letter Spacing is Broken and There’s Nothing We Can Do About It… Maybe]]></title>
+        <id>https://css-tricks.com/?p=379318</id>
+        <link href="https://css-tricks.com/letter-spacing-is-broken-and-theres-nothing-we-can-do-about-it-maybe/"/>
+        <updated>2024-07-29T16:41:34.000Z</updated>
+        <summary type="html"><![CDATA[This post came up following a conversation I had with Emilio Cobos — a senior developer at Mozilla and member of the CSSWG — about the last CSSWG group meeting. I wanted to know what he thought were the …
+Letter Spacing is Broken and There’s Nothing We Can Do About It… Maybe originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Juan Diego Rodríguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pop(over) the Balloons]]></title>
+        <id>https://css-tricks.com/?p=379281</id>
+        <link href="https://css-tricks.com/popover-the-balloons/"/>
+        <updated>2024-07-25T13:31:46.000Z</updated>
+        <summary type="html"><![CDATA[I’ve always been fascinated with how much we can do with just HTML and CSS. The new interactive features of the Popover API are yet another example of just how far we can get with those two languages alone.
+You …
+Pop(over) the Balloons originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>John Rhea</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Integrating Image-To-Text And Text-To-Speech Models (Part 1)]]></title>
         <id>https://smashingmagazine.com/2024/07/integrating-image-to-text-and-text-to-speech-models-part1/</id>
         <link href="https://smashingmagazine.com/2024/07/integrating-image-to-text-and-text-to-speech-models-part1/"/>
@@ -163,6 +257,28 @@
         <summary type="html"><![CDATA[Joas Pambou built an app that integrates vision language models (VLMs) and text-to-speech (TTS) AI technologies to describe images audibly with speech. This audio description tool can be a big help for people with sight challenges to understand what’s in an image. But how this does it even work? Joas explains how these AI systems work and their potential uses, including how he built the app and ways to further improve it.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Joas Pambou)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alvaro Montoro: CSS One-Liners to Improve (Almost) Every Project]]></title>
+        <id>https://css-tricks.com/?p=379278</id>
+        <link href="https://css-tricks.com/alvaro-montoro-css-one-liners-to-improve-almost-every-project/"/>
+        <updated>2024-07-22T14:38:52.000Z</updated>
+        <summary type="html"><![CDATA[These sorts of roundups always get me. My wife will flip through Zillow photos of the insides of homes for hours because she likes seeing how different people decorate, Feng Shui, or what have you. That’s her little dip into …
+Alvaro Montoro: CSS One-Liners to Improve (Almost) Every Project originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Stuff I’m Excited After the Last CSSWG Meeting]]></title>
+        <id>https://css-tricks.com/?p=379180</id>
+        <link href="https://css-tricks.com/css-stuff-im-excited-after-the-last-csswg-meeting/"/>
+        <updated>2024-07-19T17:16:57.000Z</updated>
+        <summary type="html"><![CDATA[From June 11–13, the CSS Working Group (CSSWG) held its second face-to-face meeting of the year in Coruña, Spain, with a long agenda of new features and improvements coming to language. If 2023 brought us incredible advances like …
+CSS Stuff I’m Excited After the Last CSSWG Meeting originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Juan Diego Rodríguez</name>
         </author>
     </entry>
     <entry>
@@ -186,6 +302,28 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Sara Joy: Everybody’s Free (To Write Websites)]]></title>
+        <id>https://css-tricks.com/?p=379199</id>
+        <link href="https://css-tricks.com/sara-joy-everybodys-free-to-write-websites/"/>
+        <updated>2024-07-17T18:36:53.000Z</updated>
+        <summary type="html"><![CDATA[Sara Joy’s adaptation of the song “Everybody’s Free (To Wear Sunscreen)” (YouTube) originally by Baz Luhrman with lyrics pulled directly from Mary Schmich‘s classic essay, “Wear Sunscreen”. Anyone who has graduated high school since 1999 doesn’t even have …
+Sara Joy: Everybody’s Free (To Write Websites) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Selectors]]></title>
+        <id>https://css-tricks.com/?p=378745</id>
+        <link href="https://css-tricks.com/css-selectors/"/>
+        <updated>2024-07-15T16:13:15.000Z</updated>
+        <summary type="html"><![CDATA[A complete guide covering all of the various methods we have to select elements in CSS and how to use them for applying styles.
+CSS Selectors originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How To Design Effective Conversational AI Experiences: A Comprehensive Guide]]></title>
         <id>https://smashingmagazine.com/2024/07/how-design-effective-conversational-ai-experiences-guide/</id>
         <link href="https://smashingmagazine.com/2024/07/how-design-effective-conversational-ai-experiences-guide/"/>
@@ -203,6 +341,17 @@
         <summary type="html"><![CDATA[Today, UX design contributes to the problem of excessive consumption through persuasive e-commerce practices and designing for companies with linear and exploitative business models. Anna Rátkai explores practical steps we can take to reduce material consumption and the massive environmental impact that comes along with it by designing mindful shopping experiences.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Anna Rátkai)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“If” CSS Gets Inline Conditionals]]></title>
+        <id>https://css-tricks.com/?p=379002</id>
+        <link href="https://css-tricks.com/if-css-gets-inline-conditionals/"/>
+        <updated>2024-07-09T15:18:11.000Z</updated>
+        <summary type="html"><![CDATA[A few sirens went off a couple of weeks ago when the CSS Working Group (CSSWG) resolved to add an if() conditional to the CSS Values Module Level 5 specification. It was Lea Verou’s X post that same day that …
+“If” CSS Gets Inline Conditionals originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
         </author>
     </entry>
 </feed>
