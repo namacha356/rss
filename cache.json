@@ -154,7 +154,7 @@
           "description": "In this tutorial, Blake Lundquist walks us through two methods of creating the “moving-highlight” navigation pattern using only plain JavaScript and CSS. The first technique uses the `getBoundingClientRect` method to explicitly animate the border between navigation bar items when they are clicked. The second approach achieves the same functionality using the new View Transition API.",
           "link": "https://smashingmagazine.com/2025/06/creating-moving-highlight-navigation-bar-javascript-css/",
           "publishedOn": "2025-06-11T13:00:00.000Z",
-          "wordCount": 4405,
+          "wordCount": 4296,
           "title": "Creating The &ldquo;Moving Highlight&rdquo; Navigation Bar With JavaScript And CSS",
           "enclosure": {
             "url": "http://files.smashing.media/articles/creating-moving-highlight-navigation-bar-vanilla-javascript/creating-moving-highlight-navigation-bar-javascript-css.jpg",
@@ -169,7 +169,7 @@
           "description": "SVG is easy — until you meet `path`. However, it’s not as confusing as it initially looks. In this first installment of a pair of articles, Myriam Frisano aims to teach you the basics of `\n` and its sometimes mystifying commands. With simple examples and visualizations, she’ll help you understand the easy syntax and underlying rules of SVG’s most powerful element so that by the end, you’re fully able to translate SVG semantic tags into a language `path` understands.",
           "link": "https://smashingmagazine.com/2025/06/decoding-svg-path-element-line-commands/",
           "publishedOn": "2025-06-09T08:00:00.000Z",
-          "wordCount": 4854,
+          "wordCount": 4856,
           "title": "Decoding The SVG <code>path</code> Element: Line Commands",
           "enclosure": {
             "url": "http://files.smashing.media/articles/decoding-svg-path-element-line-commands/decoding-svg-path-element-line-commands.jpg",
@@ -184,7 +184,7 @@
           "description": "We often spotlight wireframes, research, or tools like Figma, but none of that moves the needle if we can’t collaborate well. Great UX doesn’t happen in isolation. It takes conversations with engineers, alignment with product, sales, and other stakeholders, and the ability to listen, adapt, and co-create. That’s where design becomes a team sport, and when your ability to capture the outcomes multiplies the UX impact.",
           "link": "https://smashingmagazine.com/2025/06/collaboration-most-underrated-ux-skill/",
           "publishedOn": "2025-06-05T08:00:00.000Z",
-          "wordCount": 4714,
+          "wordCount": 4721,
           "title": "Collaboration: The Most Underrated UX Skill No One Talks About",
           "enclosure": {
             "url": "http://files.smashing.media/articles/collaboration-most-underrated-ux-skill/collaboration-most-underrated-ux-skill.jpg",
@@ -214,7 +214,7 @@
           "description": "Designers love to craft, but polishing pixels before the problem is solved is a time-sink. This article pinpoints the five traps that lure us into premature detail — being afraid to show rough work, fixing symptoms instead of causes, solving the wrong problem, drowning in unactionable feedback, and plain fatigue — then hands you a four-step rescue plan to refocus on goals, ship faster, and keep your craft where it counts.",
           "link": "https://smashingmagazine.com/2025/06/why-designers-get-stuck-in-details/",
           "publishedOn": "2025-06-03T14:00:00.000Z",
-          "wordCount": 5045,
+          "wordCount": 4943,
           "title": "Why Designers Get Stuck In The Details And How To Stop",
           "enclosure": {
             "url": "http://files.smashing.media/articles/why-designers-get-stuck-in-details/why-designers-get-stuck-in-details.jpg",
@@ -244,7 +244,7 @@
           "description": "Let’s kick off June — and the beginning of summer — with some fresh inspiration! Artists and designers from across the globe once again tickled their creativity to welcome the new month with a new collection of desktop wallpapers. Enjoy!",
           "link": "https://smashingmagazine.com/2025/05/desktop-wallpaper-calendars-june-2025/",
           "publishedOn": "2025-05-31T08:00:00.000Z",
-          "wordCount": 5309,
+          "wordCount": 5206,
           "title": "Prelude To Summer (June 2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d57d2cfe-3f0d-48ac-9c26-df7e43cbd76b/june-18-travel-time-preview-opt.png",
@@ -289,7 +289,7 @@
           "description": "Road-tripping along the line between engineering and spirituality, Robert M. Pirsig’s musings on the arts, sciences, and Quality ring as true now as they ever have.",
           "link": "https://smashingmagazine.com/2025/05/what-zen-art-motorcycle-maintenance-teach-web-design/",
           "publishedOn": "2025-05-23T11:00:00.000Z",
-          "wordCount": 5677,
+          "wordCount": 5795,
           "title": "What Zen And The Art Of Motorcycle Maintenance Can Teach Us About Web Design",
           "enclosure": {
             "url": "http://files.smashing.media/articles/zen-and-art-of-motorcycle-maintenance-teach-us-about-web-design/what-zen-art-motorcycle-maintenance-teach-web-design.jpg",
@@ -304,7 +304,7 @@
           "description": "While there are plenty of ways that CSS animations can bring designs to life, adding simple SMIL (Synchronized Multimedia Integration Language) animations in SVG can help them do much more. Andy Clarke explains where SMIL animations in SVG take over where CSS leaves off.",
           "link": "https://smashingmagazine.com/2025/05/smashing-animations-part-3-smil-not-dead/",
           "publishedOn": "2025-05-21T08:00:00.000Z",
-          "wordCount": 5449,
+          "wordCount": 5455,
           "title": "Smashing Animations Part 3: SMIL’s Not Dead Baby, SMIL’s Not Dead",
           "enclosure": {
             "url": "http://files.smashing.media/articles/smashing-animations-part-3-smil-not-dead/smashing-animations-part-3-smil-not-dead.jpg",
@@ -327,21 +327,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/design-system-in-90-days/design-system-in-90-days.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/05/building-practical-ux-strategy-framework/",
-          "author": "hello@smashingmagazine.com (Paul Boag)",
-          "description": "Learn how to create and implement a UX strategy framework that shapes work and drives real business value.",
-          "link": "https://smashingmagazine.com/2025/05/building-practical-ux-strategy-framework/",
-          "publishedOn": "2025-05-16T11:00:00.000Z",
-          "wordCount": 4403,
-          "title": "Building A Practical UX Strategy Framework",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/building-practical-ux-strategy-framework/building-practical-ux-strategy-framework.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/building-practical-ux-strategy-framework/building-practical-ux-strategy-framework.jpg"
         }
       ]
     },
@@ -350,6 +335,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "684dd5eb387267af7a264b7a",
+          "author": "Beau Carnes",
+          "description": "If you’re serious about machine learning and want to break into real-world ML engineering, learning MLOps is one of the best things you can do. It’s what turns experiments into reliable systems. You can train a great model, but without the right pipe...",
+          "link": "https://www.freecodecamp.org/news/learn-mlops-by-creating-a-youtube-sentiment-analyzer/",
+          "publishedOn": "2025-06-14T20:04:59.000Z",
+          "wordCount": 1342,
+          "title": "Learn MLOps by Creating a YouTube Sentiment Analyzer",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1749822376754/96a5ebfc-e64d-4541-9fc7-b17bcc43db5a.png"
+        },
         {
           "id": "684c867db87f779c97f2e509",
           "author": "German Cocca",
@@ -439,16 +434,6 @@
           "wordCount": 1243,
           "title": "Learn the MERN Stack in 2025",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1749234841421/0d452535-e019-4a1b-800a-1912cc16254a.png"
-        },
-        {
-          "id": "6842e00169a5099a551058ce",
-          "author": "Beau Carnes",
-          "description": "On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews former CTO and prolific programming teacher Hitesh Choudhary.   We talk about: The limits of AI in building a robust codebase Time management Higher Education in ...",
-          "link": "https://www.freecodecamp.org/news/from-electrical-engineering-student-to-cto-with-hitesh-choudhary-podcast-175/",
-          "publishedOn": "2025-06-06T12:33:05.000Z",
-          "wordCount": 1005,
-          "title": "From electrical engineering student to CTO with Hitesh Choudhary [Podcast #175]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1749158756824/3996a2ad-53e5-4a8f-ab97-2c77a6f66ba3.png"
         }
       ]
     }
