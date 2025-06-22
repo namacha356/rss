@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-06-21T00:43:47.877Z</id>
+    <id>urn:2025-06-22T00:50:58.036Z</id>
     <title>osmos::feed</title>
-    <updated>2025-06-21T00:43:47.877Z</updated>
+    <updated>2025-06-22T00:50:58.036Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -367,27 +367,6 @@ What We Know (So Far) About CSS Reading Order originally published on CSS-Tricks
 Better CSS Shapes Using shape() — Part 1: Lines and Arcs originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Zen And The Art Of Motorcycle Maintenance Can Teach Us About Web Design]]></title>
-        <id>https://smashingmagazine.com/2025/05/what-zen-art-motorcycle-maintenance-teach-web-design/</id>
-        <link href="https://smashingmagazine.com/2025/05/what-zen-art-motorcycle-maintenance-teach-web-design/"/>
-        <updated>2025-05-23T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Road-tripping along the line between engineering and spirituality, Robert M. Pirsig’s musings on the arts, sciences, and Quality ring as true now as they ever have.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Frederick O’Brien)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You can style alt text like any other text]]></title>
-        <id>https://css-tricks.com/?p=386724</id>
-        <link href="https://css-tricks.com/you-can-style-alt-text-like-any-other-text/"/>
-        <updated>2025-05-22T14:43:09.000Z</updated>
-        <summary type="html"><![CDATA[Clever, clever that Andy Bell. He shares a technique for displaying image alt text when the image fails to load. Well, more precisely, it's a technique to apply styles to the alt when the image doesn't load, offering a nice UI fallback for what would otherwise be a busted-looking error.
-You can style alt text like any other text originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
 </feed>
