@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-06-22T00:50:58.036Z</id>
+    <id>urn:2025-06-23T00:49:23.387Z</id>
     <title>osmos::feed</title>
-    <updated>2025-06-22T00:50:58.036Z</updated>
+    <updated>2025-06-23T00:49:23.387Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -356,17 +356,6 @@ What We Know (So Far) About CSS Reading Order originally published on CSS-Tricks
         <summary type="html"><![CDATA[What’s the difference between data, findings, and UX insights? And how do you argue for statistical significance in your UX research? Let’s unpack it.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Better CSS Shapes Using shape() — Part 1: Lines and Arcs]]></title>
-        <id>https://css-tricks.com/?p=386640</id>
-        <link href="https://css-tricks.com/better-css-shapes-using-shape-part-1-lines-and-arcs/"/>
-        <updated>2025-05-23T13:02:32.000Z</updated>
-        <summary type="html"><![CDATA[This is the first part of a series that dives deep into the shape function, starting with shapes that use lines and arcs.
-Better CSS Shapes Using shape() — Part 1: Lines and Arcs originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Temani Afif</name>
         </author>
     </entry>
 </feed>
