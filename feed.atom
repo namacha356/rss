@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-18T00:53:41.835Z</id>
+    <id>urn:2026-01-19T00:52:52.505Z</id>
     <title>osmos::feed</title>
-    <updated>2026-01-18T00:53:41.835Z</updated>
+    <updated>2026-01-19T00:52:52.505Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -272,17 +272,6 @@ Thank You (2025 Edition) originally published on CSS-Tricks, which is part of th
 text-decoration-inset is Like Padding for Text Decorations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Masonry Layout is Now grid-lanes]]></title>
-        <id>https://css-tricks.com/?p=390640</id>
-        <link href="https://css-tricks.com/masonry-layout-is-now-grid-lanes/"/>
-        <updated>2025-12-19T16:08:28.000Z</updated>
-        <summary type="html"><![CDATA[It's settled! A new CSS display property keyword called grid-lanes will trigger a masonry layout mode.
-Masonry Layout is Now grid-lanes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Sunkanmi Fafowora</name>
         </author>
     </entry>
 </feed>
