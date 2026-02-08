@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-07T00:55:46.680Z</id>
+    <id>urn:2026-02-08T01:17:04.425Z</id>
     <title>osmos::feed</title>
-    <updated>2026-02-07T00:55:46.680Z</updated>
+    <updated>2026-02-08T01:17:04.425Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -76,6 +76,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[CSS Bar Charts Using Modern Functions]]></title>
+        <id>https://css-tricks.com/?p=391781</id>
+        <link href="https://css-tricks.com/css-bar-charts-using-modern-functions/"/>
+        <updated>2026-02-05T15:13:14.000Z</updated>
+        <summary type="html"><![CDATA[CSS-only bar charts are one of those things we've tackled a bunch of times in different ways. But how can modern CSS features finally make it not only trivial, but fun?
+CSS Bar Charts Using Modern Functions originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Preethi</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[CSS <code>@scope</code>: An Alternative To Naming Conventions And Heavy Abstractions]]></title>
         <id>https://smashingmagazine.com/2026/02/css-scope-alternative-naming-conventions/</id>
         <link href="https://smashingmagazine.com/2026/02/css-scope-alternative-naming-conventions/"/>
@@ -116,6 +127,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[No Hassle Visual Code Theming: Publishing an Extension]]></title>
+        <id>https://css-tricks.com/?p=390379</id>
+        <link href="https://css-tricks.com/no-hassle-visual-code-theming-publishing-an-extension/"/>
+        <updated>2026-02-03T15:54:59.000Z</updated>
+        <summary type="html"><![CDATA[You’d think that publishing a VS Code extension is an easy process, but it’s not. You have to publish your theme in at least two places.
+No Hassle Visual Code Theming: Publishing an Extension originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Zell Liew</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Combobox vs. Multiselect vs. Listbox: How To Choose The Right One]]></title>
         <id>https://smashingmagazine.com/2026/02/combobox-vs-multiselect-vs-listbox/</id>
         <link href="https://smashingmagazine.com/2026/02/combobox-vs-multiselect-vs-listbox/"/>
@@ -123,6 +145,17 @@
         <summary type="html"><![CDATA[Combobox vs. Multi-Select vs. Listbox vs. Dual Listbox? How they are different, what purpose they serve, and how to choose the right one. Brought to you by Design Patterns For AI Interfaces, **friendly video courses on UX** and design patterns by Vitaly.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[No-Hassle Visual Studio Code Theming: Building an Extension]]></title>
+        <id>https://css-tricks.com/?p=390341</id>
+        <link href="https://css-tricks.com/no-hassle-visual-studio-code-theming-building-an-extension/"/>
+        <updated>2026-02-02T14:51:01.000Z</updated>
+        <summary type="html"><![CDATA[I've always thought that creating a VS Code theme was a lot of work. But lo and behold, it took less than six hours to get it working, then a day or two to polish up my final tweaks.
+No-Hassle Visual Studio Code Theming: Building an Extension originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Zell Liew</name>
         </author>
     </entry>
     <entry>
@@ -136,6 +169,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[What’s !important #4: Videos & View Transitions, Named Media Queries, How Browsers Work, and More]]></title>
+        <id>https://css-tricks.com/?p=391967</id>
+        <link href="https://css-tricks.com/whats-important-4/"/>
+        <updated>2026-01-30T15:00:26.000Z</updated>
+        <summary type="html"><![CDATA[Neither Chrome, Safari, nor Firefox have shipped new features in the last couple of weeks, but fear not because leading this issue of What’s !important is some of the web development industry’s best educators with, frankly, some killer content.
+What’s !important #4: Videos & View Transitions, Named Media Queries, How Browsers Work, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Practical Use Of AI Coding Tools For The Responsible Developer]]></title>
         <id>https://smashingmagazine.com/2026/01/practical-use-ai-coding-tools-responsible-developer/</id>
         <link href="https://smashingmagazine.com/2026/01/practical-use-ai-coding-tools-responsible-developer/"/>
@@ -143,6 +187,28 @@
         <summary type="html"><![CDATA[AI coding tools like agents can be valuable allies in everyday development work. They help handle time-consuming grunt work, guide you through large legacy codebases, and offer low-risk ways to implement features in previously unfamiliar programming languages. Here are practical, easy-to-apply techniques to help you use these tools to improve your workflow.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Stefan Kaltenegger)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Styling ::search-text and Other Highlight-y Pseudo-Elements]]></title>
+        <id>https://css-tricks.com/?p=391705</id>
+        <link href="https://css-tricks.com/how-to-style-the-new-search-text-and-other-highlight-pseudo-elements/"/>
+        <updated>2026-01-28T15:08:04.000Z</updated>
+        <summary type="html"><![CDATA[The new ::search-text pseudo (Chrome 144) matches are yellow while the current target (::search-text:current) is orange, but ::search-text enables us to change that.
+Styling ::search-text and Other Highlight-y Pseudo-Elements originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ReliCSS]]></title>
+        <id>https://css-tricks.com/?p=391920</id>
+        <link href="https://css-tricks.com/relicss/"/>
+        <updated>2026-01-28T13:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Stu Robson's ReliCSS (clever name!) tool can excavate outdated CSS in your codebase that have modern CSS solutions.
+ReliCSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
@@ -156,6 +222,41 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[There is No Need to Trap Focus on a Dialog Element]]></title>
+        <id>https://css-tricks.com/?p=388430</id>
+        <link href="https://css-tricks.com/there-is-no-need-to-trap-focus-on-a-dialog-element/"/>
+        <updated>2026-01-26T15:02:27.000Z</updated>
+        <summary type="html"><![CDATA[Accessibility advice around modals have commonly taught us to trap focus within the modal. Upon further research, it seems like we no longer need to trap focus within the <dialog> (even in modal mode).
+There is No Need to Trap Focus on a Dialog Element originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Zell Liew</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Responsive Hexagon Grid Using Modern CSS]]></title>
+        <id>https://css-tricks.com/?p=391573</id>
+        <link href="https://css-tricks.com/responsive-hexagon-grid-using-modern-css/"/>
+        <updated>2026-01-23T14:39:56.000Z</updated>
+        <summary type="html"><![CDATA[A while back, Temani tacked a repeating grid of hexagon shapes. Well, he's updated it with modern CSS features that result in fewer magic numbers. And it's impressive!
+Responsive Hexagon Grid Using Modern CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open Props @custom-media Recipes]]></title>
+        <id>https://css-tricks.com/?p=391757</id>
+        <link href="https://css-tricks.com/open-props-custom-media-recipes/"/>
+        <updated>2026-01-23T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The @custom-media at-rule has landed in Firefox Nightly! I couldn’t find it in the release notes but Adam Argyle’s on the beat noting that it’s behind a flag for now.
+Look for layout.css.custom-media.enabled
+I often forget the exact name of …
+Open Props @custom-media Recipes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Beyond Generative: The Rise Of Agentic AI And User-Centric Design]]></title>
         <id>https://smashingmagazine.com/2026/01/beyond-generative-rise-agentic-ai-user-centric-design/</id>
         <link href="https://smashingmagazine.com/2026/01/beyond-generative-rise-agentic-ai-user-centric-design/"/>
@@ -163,6 +264,17 @@
         <summary type="html"><![CDATA[Developing effective agentic AI requires a new research playbook. When systems plan, decide, and act on our behalf, UX moves beyond usability testing into the realm of trust, consent, and accountability. Victor Yocco outlines the research methods needed to design agentic AI systems responsibly.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Victor Yocco)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Learned The First Rule of ARIA the Hard Way]]></title>
+        <id>https://css-tricks.com/?p=391390</id>
+        <link href="https://css-tricks.com/i-learned-the-first-rule-of-aria-the-hard-way/"/>
+        <updated>2026-01-21T17:51:30.000Z</updated>
+        <summary type="html"><![CDATA[Semantic HTML does a lot more accessibility work than we usually give it credit for already — and ARIA is simple to abuse when we use it both as a shortcut and as a supplement.
+I Learned The First Rule of ARIA the Hard Way originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Hashim Quraishi</name>
         </author>
     </entry>
     <entry>
@@ -176,6 +288,50 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[HTTP Archive 2025 Web Almanac]]></title>
+        <id>https://css-tricks.com/?p=391564</id>
+        <link href="https://css-tricks.com/http-archive-2025-web-almanac/"/>
+        <updated>2026-01-16T17:30:43.000Z</updated>
+        <summary type="html"><![CDATA[I love me some good web research reports. I’m a sucker for them. HTTP Archive’s Web Almanac is one report I look forward to every year, and I know I’m not alone there. It’s one of those highly-anticipated publications on …
+HTTP Archive 2025 Web Almanac originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“I Heart CSS” DailyDev Squad]]></title>
+        <id>https://css-tricks.com/?p=391529</id>
+        <link href="https://css-tricks.com/i-heart-css-dailydev-squad/"/>
+        <updated>2026-01-16T14:46:24.000Z</updated>
+        <summary type="html"><![CDATA[If you’re reading this, chances are you already have some sort of way that you’re following when we publish new content, whether that’s RSS, Bluesky, Mastodon, or what have you. But I know a lot of folks …
+“I Heart CSS” DailyDev Squad originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s !important #3: Popover Context Menus, @scope, New Web Platform Features, and More]]></title>
+        <id>https://css-tricks.com/?p=391542</id>
+        <link href="https://css-tricks.com/whats-important-3/"/>
+        <updated>2026-01-15T15:08:58.000Z</updated>
+        <summary type="html"><![CDATA[The developer community hasn’t wasted any time kicking off 2026 with some really great articles, demos, and insights. Firefox 147 and Chrome 144 also shipped, and while they’re not jam-packed with features, the releases are still pretty exciting for what’s normally a slow time of year, so without further ado, here’s what’s important from the last couple of weeks (or should I say the first couple of weeks, of 2026?)…
+What’s !important #3: Popover Context Menus, @scope, New Web Platform Features, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Playing With CodePen slideVars]]></title>
+        <id>https://css-tricks.com/?p=391494</id>
+        <link href="https://css-tricks.com/playing-with-codepen-slidevars/"/>
+        <updated>2026-01-14T14:59:07.000Z</updated>
+        <summary type="html"><![CDATA[Super cool new CodePen feature alert! You've probably seen a bunch of "interactive" demos that let you changed values on the fly from a UI panel embedded directly in the demo.
+Playing With CodePen slideVars originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Smashing Animations Part 8: Theming Animations Using CSS Relative Colour]]></title>
         <id>https://smashingmagazine.com/2026/01/smashing-animations-part-8-css-relative-colour/</id>
         <link href="https://smashingmagazine.com/2026/01/smashing-animations-part-8-css-relative-colour/"/>
@@ -183,6 +339,17 @@
         <summary type="html"><![CDATA[CSS relative colour values are now widely supported. In this article, pioneering author and web designer [Andy Clarke](https://stuffandnonsense.co.uk/) shares practical techniques for using them to theme and animate SVG graphics.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Andy Clarke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Postcard From Web Directions Dev Summit, 2025]]></title>
+        <id>https://css-tricks.com/?p=391345</id>
+        <link href="https://css-tricks.com/postcard-from-web-directions-dev-summit-2025/"/>
+        <updated>2026-01-12T14:54:32.000Z</updated>
+        <summary type="html"><![CDATA[Lee Meyer recently spoke at Web Directions Summit 2025. This is his experience, not only speaking at the event, but experiencing the event through the lens of anxiety and imposter syndrome.
+Postcard From Web Directions Dev Summit, 2025 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Lee Meyer</name>
         </author>
     </entry>
     <entry>
