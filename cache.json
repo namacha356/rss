@@ -174,12 +174,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2026/05/desktop-wallpaper-calendars-june-2026/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "Let’s kick off June — and the beginning of summer — with some fresh inspiration! Artists and designers from across the globe once again tickled their creativity to welcome the new month with a new collection of desktop wallpapers. Enjoy!",
+          "link": "https://smashingmagazine.com/2026/05/desktop-wallpaper-calendars-june-2026/",
+          "publishedOn": "2026-05-31T08:00:00.000Z",
+          "wordCount": 5631,
+          "title": "June Is For Exploring (2026 Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-june-2026/jun-26-drifting-into-june-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-june-2026/jun-26-drifting-into-june-preview-opt.png"
+        },
+        {
           "id": "https://smashingmagazine.com/2026/05/building-self-correcting-color-systems-contrast-color/",
           "author": "hello@smashingmagazine.com (Durgesh Pawar)",
           "description": "Seventy percent of websites still fail basic WCAG contrast checks in 2025. After years of design system tooling, accessibility linters, and JavaScript libraries, nothing moved the needle. We didn’t need better libraries. We needed better CSS. `contrast-color()` is that better CSS.",
           "link": "https://smashingmagazine.com/2026/05/building-self-correcting-color-systems-contrast-color/",
           "publishedOn": "2026-05-28T13:00:00.000Z",
-          "wordCount": 5671,
+          "wordCount": 5662,
           "title": "Algorithmic Theming Engines: Building Self-Correcting Color Systems With `contrast-color()`",
           "enclosure": {
             "url": "http://files.smashing.media/articles/building-self-correcting-color-systems-contrast-color/building-self-correcting-color-systems-contrast-color.jpg",
@@ -209,7 +224,7 @@
           "description": "What people say, feel, think, and do are often very different things. To understand the underlying reasons for user behavior, it helps to look beyond the surface and explore hidden motivations, root causes, and the different layers of reality that shape how people act. Brought to you by Measuring UX Impact, **friendly video course on UX** and design patterns by Vitaly.",
           "link": "https://smashingmagazine.com/2026/05/four-levels-customer-understanding/",
           "publishedOn": "2026-05-22T13:00:00.000Z",
-          "wordCount": 4356,
+          "wordCount": null,
           "title": "Four Levels Of Customer Understanding",
           "enclosure": {
             "url": "http://files.smashing.media/articles/four-levels-customer-understanding/four-levels-customer-understanding.jpg",
@@ -224,7 +239,7 @@
           "description": "Meet `sibling-index()` and `sibling-count()`. Staggered cascade effect in one line of CSS without `:nth-child()` rules or JS workarounds. Works for 5 items or 5,000.",
           "link": "https://smashingmagazine.com/2026/05/mathematical-layouts-sibling-index-sibling-count/",
           "publishedOn": "2026-05-21T08:00:00.000Z",
-          "wordCount": 4900,
+          "wordCount": 4894,
           "title": "Advanced Tree Counting: Mathematical Layouts With `sibling-index()` And `sibling-count()`",
           "enclosure": {
             "url": "http://files.smashing.media/articles/mathematical-layouts-sibling-index-sibling-count/mathematical-layouts-sibling-index-sibling-count.jpg",
@@ -239,7 +254,7 @@
           "description": "Every extra second of friction has a measurable business cost. Carrie Webster shares ten data-backed UX facts that link user experience directly to revenue, retention, and long-term growth.",
           "link": "https://smashingmagazine.com/2026/05/data-backed-truths-user-experience-roi/",
           "publishedOn": "2026-05-15T10:00:00.000Z",
-          "wordCount": 4909,
+          "wordCount": 4915,
           "title": "Ten Data-Backed Truths Of User Experience ROI",
           "enclosure": {
             "url": "http://files.smashing.media/articles/data-backed-truths-user-experience-roi/data-backed-truths-user-experience-roi.jpg",
@@ -254,7 +269,7 @@
           "description": "Why traditional loading patterns like spinners fail in agentic AI experiences, and how interface patterns that reveal the system’s process, status, and decision-making can improve transparency and build user trust.",
           "link": "https://smashingmagazine.com/2026/05/practical-interface-patterns-ai-transparency/",
           "publishedOn": "2026-05-13T13:00:00.000Z",
-          "wordCount": 6262,
+          "wordCount": 6263,
           "title": "Practical Interface Patterns For AI Transparency (Part 2)",
           "enclosure": {
             "url": "http://files.smashing.media/articles/practical-interface-patterns-ai-transparency/practical-interface-patterns-ai-transparency.jpg",
@@ -269,7 +284,7 @@
           "description": "An honest perspective on building local-first web apps in 2026, written for developers who’ve been doing this long enough to be skeptical of silver bullets.",
           "link": "https://smashingmagazine.com/2026/05/architecture-local-first-web-development/",
           "publishedOn": "2026-05-06T10:00:00.000Z",
-          "wordCount": 8653,
+          "wordCount": 8749,
           "title": "The Architecture Of Local-First Web Development",
           "enclosure": {
             "url": "http://files.smashing.media/articles/architecture-local-first-web-development/architecture-local-first-web-development.jpg",
@@ -284,7 +299,7 @@
           "description": "Design always starts with function — function shapes form. But if that function can’t be made completely invisible and people still have to interact with it, it inevitably becomes part of their experience. In this article, Kyrylo Levashov shares four common software design assumptions.",
           "link": "https://smashingmagazine.com/2026/05/rethinking-experience-system-tools/",
           "publishedOn": "2026-05-05T08:00:00.000Z",
-          "wordCount": 3952,
+          "wordCount": null,
           "title": "Rethinking The Experience Of System Tools",
           "enclosure": {
             "url": "http://files.smashing.media/articles/rethinking-experience-system-tools.jpg",
