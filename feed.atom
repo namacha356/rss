@@ -1,10 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-07T01:56:25.318Z</id>
+    <id>urn:2026-08-08T00:39:29.337Z</id>
     <title>osmos::feed</title>
-    <updated>2026-08-07T01:56:25.318Z</updated>
+    <updated>2026-08-08T00:39:29.337Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Test AI Features in Flutter [Full Handbook]]]></title>
+        <id>6a76024b50cf2dad7c8ef8c3</id>
+        <link href="https://www.freecodecamp.org/news/how-to-test-ai-features-in-flutter-full-handbook/"/>
+        <updated>2026-08-07T16:05:31.000Z</updated>
+        <summary type="html"><![CDATA[You've spent two weeks building an AI assistant. The streaming chat looks beautiful, the system prompt is tight, and safety filters are configured. You demoed it to the team, and everyone was impresse]]></summary>
+        <author>
+            <name>Atuoha Anthony</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using and Styling the Dialog Element]]></title>
+        <id>https://css-tricks.com/?p=394753</id>
+        <link href="https://css-tricks.com/using-and-styling-the-dialog-element/"/>
+        <updated>2026-08-07T14:06:43.000Z</updated>
+        <summary type="html"><![CDATA[There's a lot of nuance to the <dialog> element, a seemingly little piece of web architecture. I've got some notes from digging into it.
+Using and Styling the Dialog Element originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Baseline Can Help You Ship Less JavaScript]]></title>
+        <id>https://smashingmagazine.com/2026/08/how-baseline-can-help-ship-less-javascript/</id>
+        <link href="https://smashingmagazine.com/2026/08/how-baseline-can-help-ship-less-javascript/"/>
+        <updated>2026-08-07T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The gap between “you need a library for this” and “the browser does this” keeps closing. A practical guide to auditing your dependencies and finding what the web platform can now handle for you.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Jad Joubran)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Harden GitHub Actions Permissions with Least Privilege by Default]]></title>
         <id>6a750fe5b844b68f80e06098</id>
@@ -104,16 +135,6 @@
         <summary type="html"><![CDATA[Most Flutter tutorials stop at network calls and REST APIs. The moment you need to talk to a physical device, a heart rate monitor, a smart bulb, a fitness tracker, an industrial sensor, or your own c]]></summary>
         <author>
             <name>Nikheel Vishwas Savant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Fix the Dual-Write Problem in Node.js with the Outbox Pattern]]></title>
-        <id>6a736f87fcec1e65edd2a703</id>
-        <link href="https://www.freecodecamp.org/news/how-to-fix-the-dual-write-problem-in-node-js-with-the-outbox-pattern/"/>
-        <updated>2026-08-05T17:14:47.000Z</updated>
-        <summary type="html"><![CDATA[Imagine you're building an e-commerce platform where placing an order needs to trigger several things at once: the warehouse has to be told to prepare the shipment, the email service has to send a con]]></summary>
-        <author>
-            <name>Gabor Koos</name>
         </author>
     </entry>
     <entry>
