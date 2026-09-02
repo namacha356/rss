@@ -1,10 +1,90 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-01T02:14:28.548Z</id>
+    <id>urn:2026-09-02T01:37:01.395Z</id>
     <title>osmos::feed</title>
-    <updated>2026-09-01T02:14:28.548Z</updated>
+    <updated>2026-09-02T01:37:01.395Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Protect Your Privacy While Browsing the Web]]></title>
+        <id>6a96f3e0541d63c1fd799f01</id>
+        <link href="https://www.freecodecamp.org/news/how-to-protect-your-privacy-while-browsing-the-web/"/>
+        <updated>2026-09-01T15:48:48.000Z</updated>
+        <summary type="html"><![CDATA[Every time you open a web page, you leave a trail. Your browser shares your IP address, your screen size, your fonts, and dozens of other small details. Ad companies collect these details and stitch t]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Accessible Android Apps with Jetpack Compose: A Comprehensive Guide]]></title>
+        <id>6a96f33812e0a826683b9f0f</id>
+        <link href="https://www.freecodecamp.org/news/accessibility-in-jetpack-compose-comprehensive-tutorial/"/>
+        <updated>2026-09-01T15:46:00.000Z</updated>
+        <summary type="html"><![CDATA[Making your mobile apps accessible makes sure that everyone, including people with visual, auditory, motor, or cognitive disabilities, can interact with and navigate the app effectively. Historically,]]></summary>
+        <author>
+            <name>Vamsi Vaddavalli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build an AI File Analysis Agent with Python]]></title>
+        <id>6a96f2cfeb26827ea17d08f5</id>
+        <link href="https://www.freecodecamp.org/news/build-an-ai-analysis-agent/"/>
+        <updated>2026-09-01T15:44:15.000Z</updated>
+        <summary type="html"><![CDATA[If you've ever opened a 30-page PDF and thought, “There's absolutely no way I am reading all of this,” you already understand why file-analysis AI agents are useful. Imagine uploading a research paper]]></summary>
+        <author>
+            <name>Eva J Patel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding the CAP Theorem: Consistency, Availability, and Partition Tolerance in System Design]]></title>
+        <id>6a96f19b6bef806c586df810</id>
+        <link href="https://www.freecodecamp.org/news/understanding-the-cap-theorem-consistency-availability-and-partition-tolerance-in-system-design/"/>
+        <updated>2026-09-01T15:39:07.000Z</updated>
+        <summary type="html"><![CDATA[In 1999, Eric Brewer made a claim that would shape how distributed systems would be designed for decades. He proposed that any distributed data store can only guarantee two of three properties simulta]]></summary>
+        <author>
+            <name>Oluwaseyi Fatunmole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Excel Formulas and Functions]]></title>
+        <id>6a96e93c39073a9c1afb3a8d</id>
+        <link href="https://www.freecodecamp.org/news/learn-excel-formulas-and-functions/"/>
+        <updated>2026-09-01T15:03:24.000Z</updated>
+        <summary type="html"><![CDATA[Excel remains one of the most widely used and powerful tools in the tech and business worlds, but truly mastering its formulas and functions can sometimes feel overwhelming. To help you become a true]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bloom Filters Explained: The Probabilistic Data Structure Powering Instagram, Google, and High-Scale Systems]]></title>
+        <id>6a95f9a98577dd0ab849ab46</id>
+        <link href="https://www.freecodecamp.org/news/bloom-filters-explained/"/>
+        <updated>2026-08-31T22:01:13.000Z</updated>
+        <summary type="html"><![CDATA[Instagram has over 500 million registered usernames. When a new user tries to register, the platform needs to answer one question almost instantly: has this username already been taken? The naïve answ]]></summary>
+        <author>
+            <name>Oluwaseyi Fatunmole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Firestore Structures Data and How to Perform CRUD Operations With It]]></title>
+        <id>6a95f8e758184cca726442fe</id>
+        <link href="https://www.freecodecamp.org/news/how-firestore-structures-data-and-how-to-perform-crud-operations-with-it/"/>
+        <updated>2026-08-31T21:57:59.000Z</updated>
+        <summary type="html"><![CDATA[Most apps eventually need to store and manipulate data. And if you're building with Firebase, that data lives in Firestore, Google's flexible, scalable NoSQL document database. But before you can conf]]></summary>
+        <author>
+            <name>Caleb Mintoumba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Every Dev Should Know About Tracking Product Data]]></title>
+        <id>6a95f5263ba1cbee5d13a5bd</id>
+        <link href="https://www.freecodecamp.org/news/what-devs-should-know-about-tracking-product-data/"/>
+        <updated>2026-08-31T21:41:58.000Z</updated>
+        <summary type="html"><![CDATA[Product data is the record of what actually happens inside your app or website. It shows what your users do, how your system behaves, and how your business performs. In this article, you'll learn what]]></summary>
+        <author>
+            <name>Obum</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Let’s Use the Emergent CSS random() Function in all the Browsers]]></title>
         <id>https://css-tricks.com/?p=396630</id>
@@ -48,16 +128,6 @@ What’s !important #18: <geolocation>, Syntax ::highlight()ing, named-feature()
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build API Documentation From Scratch [A Roadmap for Technical Writers]]]></title>
-        <id>6a9587c15c82cb888f556170</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-api-documentation-from-scratch-roadmap/"/>
-        <updated>2026-08-31T13:55:13.000Z</updated>
-        <summary type="html"><![CDATA[As a technical writer, building public-facing API documentation from scratch for a real product can feel like a dream come true, especially if you’ve only been documenting fictional APIs or updating e]]></summary>
-        <author>
-            <name>Gloria Tejuosho</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Many Faces Of September (2026 Wallpapers Edition)]]></title>
         <id>https://smashingmagazine.com/2026/08/desktop-wallpaper-calendars-september-2026/</id>
         <link href="https://smashingmagazine.com/2026/08/desktop-wallpaper-calendars-september-2026/"/>
@@ -65,56 +135,6 @@ What’s !important #18: <geolocation>, Syntax ::highlight()ing, named-feature()
         <summary type="html"><![CDATA[Could there be a better way to welcome the new month than with a new collection of desktop wallpapers? Whether you’re holding tightly onto summer or eagerly awaiting autumn, we’ve got some eye-catching designs to make your September just a bit more colorful. Enjoy!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Automate Your Tests in Express Using Vitest]]></title>
-        <id>6a91aa2c85465e213741c4de</id>
-        <link href="https://www.freecodecamp.org/news/how-to-automate-your-tests-in-express-using-vitest/"/>
-        <updated>2026-08-28T15:33:00.000Z</updated>
-        <summary type="html"><![CDATA[Thinking through API logic while constantly switching tabs to test application integration can be overwhelming and time-consuming. Well, you can save your time and energy by writing tests for your app]]></summary>
-        <author>
-            <name>jabo Landry</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Mixtral to Kimi K3: How Mixture-of-Experts Models Evolved]]></title>
-        <id>6a90aca9476c6bda8e12cfef</id>
-        <link href="https://www.freecodecamp.org/news/from-mixtral-to-kimi-k3-how-mixture-of-experts-models-evolved/"/>
-        <updated>2026-08-27T21:31:21.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we'll discuss how Mixture-of-Experts models grew from a handful of experts to nearly 900 per layer, and the compression and stability mechanisms that keep such a sparse design trainab]]></summary>
-        <author>
-            <name>Botao Deng</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Added a CDN Cache to My Site and It Got Slower. Here's the Math I Should Have Done First.]]></title>
-        <id>6a9088cbfe512a7250d45587</id>
-        <link href="https://www.freecodecamp.org/news/cdn-cache-made-my-site-slower/"/>
-        <updated>2026-08-27T18:58:19.000Z</updated>
-        <summary type="html"><![CDATA[Last week I put a CDN cache in front of a static site, expecting it to get faster. But instead, it got measurably slower. Not subtly: an independent crawler that had flagged 38 slow pages before the c]]></summary>
-        <author>
-            <name>Javeed Shaik</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Get Reliable Structured Data Out of an LLM]]></title>
-        <id>6a908843ac9ce68300a83a4c</id>
-        <link href="https://www.freecodecamp.org/news/how-to-get-reliable-structured-data-out-of-an-llm/"/>
-        <updated>2026-08-27T18:56:03.000Z</updated>
-        <summary type="html"><![CDATA[Most tutorials about calling a language model end at JSON.parse(response.content). That line works on your first ten test cases. Then you ship, and somewhere around request four hundred the model retu]]></summary>
-        <author>
-            <name>Vineeth Pawar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Test Flutter Apps: Unit, Widget, Golden, and Integration Tests Explained]]></title>
-        <id>6a9058fc56e6415ec14cba57</id>
-        <link href="https://www.freecodecamp.org/news/how-to-test-flutter-apps-unit-widget-golden-and-integration-tests-explained/"/>
-        <updated>2026-08-27T15:34:20.000Z</updated>
-        <summary type="html"><![CDATA[The first time I was asked "what's your test coverage?" in a technical interview, I didn't have a good answer. I had shipped a couple of real Flutter apps by then. They worked and users were using the]]></summary>
-        <author>
-            <name>Gidudu Nicholas</name>
         </author>
     </entry>
     <entry>
@@ -126,26 +146,6 @@ What’s !important #18: <geolocation>, Syntax ::highlight()ing, named-feature()
 Creating Web Widgets Using the Document Picture-in-Picture API originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build AI Agents, APIs, and Full-Stack Apps with Meta Muse Code & Muse Spark]]></title>
-        <id>6a9042325a2ad19bd8e4a514</id>
-        <link href="https://www.freecodecamp.org/news/build-ai-agents-apis-and-full-stack-apps-with-meta-muse-code-muse-spark/"/>
-        <updated>2026-08-27T13:57:06.000Z</updated>
-        <summary type="html"><![CDATA[As AI developer tooling expands, vertically integrated ecosystems offer powerful alternatives for building software. In this comprehensive three-hour course on the freeCodeCamp.org YouTube channel, in]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stop Building AI Slop: Build High-End Web Apps with AI]]></title>
-        <id>6a90413617d143757c5d8455</id>
-        <link href="https://www.freecodecamp.org/news/stop-building-ai-slop-build-high-end-web-apps-with-ai/"/>
-        <updated>2026-08-27T13:52:54.000Z</updated>
-        <summary type="html"><![CDATA[Many developers use AI coding tools to generate generic, cookie-cutter interfaces that feel uninspired and incomplete. In our latest full course on the freeCodeCamp.org YouTube channel, instructor Eri]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
