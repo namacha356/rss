@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-25T02:06:08.519Z</id>
+    <id>urn:2026-09-26T02:11:57.596Z</id>
     <title>osmos::feed</title>
-    <updated>2026-09-25T02:06:08.519Z</updated>
+    <updated>2026-09-26T02:11:57.596Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Inside SeaHack: 24 Hours to Build an AI Startup]]></title>
+        <title type="html"><![CDATA[Inside a Hong Kong Hackathon [Full freeCodeCamp Documentary]]]></title>
         <id>6ab571b05974dad13c5d246d</id>
         <link href="https://www.freecodecamp.org/news/inside-seahack-24-hours-to-build-an-ai-startup/"/>
         <updated>2026-09-24T18:53:36.000Z</updated>
@@ -176,17 +176,6 @@ What’s !important #18: <geolocation>, Syntax ::highlight()ing, named-feature()
 Creating Web Widgets Using the Document Picture-in-Picture API originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[animation-trigger]]></title>
-        <id>https://css-tricks.com/?page_id=394713</id>
-        <link href="https://css-tricks.com/almanac/properties/a/animation-trigger/"/>
-        <updated>2026-08-26T15:38:41.000Z</updated>
-        <summary type="html"><![CDATA[The CSS animation-trigger property allows you to delay the start of a CSS animation until a specific trigger occurs.
-animation-trigger originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Saleh Mubashar</name>
         </author>
     </entry>
 </feed>
