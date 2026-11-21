@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-20T04:33:24.065Z</id>
+    <id>urn:2026-11-21T04:28:16.398Z</id>
     <title>osmos::feed</title>
-    <updated>2026-11-20T04:33:24.065Z</updated>
+    <updated>2026-11-21T04:28:16.398Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Write an API Migration Guide (With a Real Example)]]></title>
+        <id>6b009404336f5868385eb26f</id>
+        <link href="https://www.freecodecamp.org/news/how-to-write-an-api-migration-guide/"/>
+        <updated>2026-11-20T18:40:04.000Z</updated>
+        <summary type="html"><![CDATA[When an API releases a new version, every developer using it has to update their code. If they only get a changelog entry that says “pagination now uses cursors,” then they’ll have to figure things ou]]></summary>
+        <author>
+            <name>Chosen Vincent</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Andy Clarke answers six questions about Standout Designs for the Web]]></title>
+        <id>https://css-tricks.com/?p=397535</id>
+        <link href="https://css-tricks.com/andy-clarke-standout-designs-for-the-web-interview/"/>
+        <updated>2026-11-20T15:03:47.000Z</updated>
+        <summary type="html"><![CDATA[Web designer, author, and Stuff & Nonsense founder Andy Clarke has released Standout Designs for the Web, a new e-book that encourages designers to move beyond familiar templates and conventional layouts to create more personality-driven websites.
+The book draws …
+Andy Clarke answers six questions about Standout Designs for the Web originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Generate Synthetic Healthcare Data Using Synthea: A Hands On Tutorial]]></title>
         <id>6aff718ab7bbd995ee693880</id>
@@ -157,16 +179,6 @@ Staggering Scroll-Driven Animations with animation-range-start originally handwr
         <summary type="html"><![CDATA[When a column is removed from a source database or dataset, the next pipeline run usually fails, making the problem easy to detect. But when a field keeps the same name and data type but its meaning c]]></summary>
         <author>
             <name>Yemi Ojedapo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Browser-Based Image Storyboard to PDF Tool Using JavaScript]]></title>
-        <id>6af6ea1b6758a8ccb76659d6</id>
-        <link href="https://www.freecodecamp.org/news/build-image-storyboard-to-pdf-tool-javascript/"/>
-        <updated>2026-11-13T10:44:43.000Z</updated>
-        <summary type="html"><![CDATA[Before anyone films a video, shoots an ad or draws the final pages of a comic, someone usually sketches the plan as a storyboard: one picture per shot, in order, with a short note about what happens a]]></summary>
-        <author>
-            <name>Bhavin Sheth</name>
         </author>
     </entry>
     <entry>
@@ -327,17 +339,6 @@ The Frankenstein Table originally handwritten and published with love on CSS-Tr
 What’s !important #19: CSS Refraction Effects, Scroll State Queries, @custom-media, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS-Tricks has a new owner!]]></title>
-        <id>https://css-tricks.com/?p=397227</id>
-        <link href="https://css-tricks.com/css-tricks-has-a-new-owner/"/>
-        <updated>2026-10-26T15:29:36.000Z</updated>
-        <summary type="html"><![CDATA[Yes, I've got the keys to the castle, so to speak. And, even after 12 years of working on the site, I'll admit I'm a little overwhelmed and nervous about that.
-CSS-Tricks has a new owner! originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
