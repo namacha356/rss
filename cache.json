@@ -47,7 +47,7 @@
           "description": "It’s important to use fallbacks to build a robust front end, either to quietly and discreetly avoid the error or to communicate it to our users.\nUsing Fallbacks for a Robust Front-End originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/using-frontend-fallbacks/",
           "publishedOn": "2026-11-23T14:21:44.000Z",
-          "wordCount": 3271,
+          "wordCount": 3314,
           "title": "Using Fallbacks for a Robust Front-End",
           "imageUrl": "https://css-tricks.com/wp-content/uploads/2021/06/reset-refresh-recycle-default.jpg"
         },
@@ -219,7 +219,7 @@
           "description": "An AI feature can save users time on a task, only for them to spend it checking the results. This practical audit helps product teams decide where AI earns its place and what users need to verify its output.",
           "link": "https://smashingmagazine.com/2026/11/should-you-add-ai-audit-product-teams/",
           "publishedOn": "2026-11-12T10:00:00.000Z",
-          "wordCount": 6061,
+          "wordCount": 6063,
           "title": "Should You Actually Add AI To That? A Four-Question Audit For Product Teams",
           "enclosure": {
             "url": "http://files.smashing.media/articles/should-you-add-au-audit-product-teams/should-you-add-ai-audit-product-teams.jpg",
@@ -249,7 +249,7 @@
           "description": "As LLM chat patterns become more widespread, making them accessible is essential to ensuring everyone can access the information, tools, and opportunities they offer. Drawing on his work improving these interfaces, Eric Bailey shares practical ways to make chat-based experiences on the web more accessible and usable for people who rely on assistive technology.",
           "link": "https://smashingmagazine.com/2026/11/making-immersive-llm-chat-experiences-more-accessible/",
           "publishedOn": "2026-11-05T13:00:00.000Z",
-          "wordCount": 6872,
+          "wordCount": 6881,
           "title": "Making Immersive LLM Chat Experiences More Accessible",
           "enclosure": {
             "url": "http://files.smashing.media/articles/making-immersive-llm-chat-experiences-more-accessible/making-immersive-llm-chat-experiences-more-accessible.jpg",
@@ -264,7 +264,7 @@
           "description": "Replacing JavaScript with a modern CSS feature can simplify a piece of code while making the wider application harder to reason about. Gabriel Shoyombo explores what happens when logic is split between CSS and JavaScript, sharing practical guidance to help you keep complexity in check during migration.",
           "link": "https://smashingmagazine.com/2026/11/modern-css-might-make-your-front-end-more-complex/",
           "publishedOn": "2026-11-03T10:00:00.000Z",
-          "wordCount": 6990,
+          "wordCount": 7003,
           "title": "Modern CSS Might Make Your Front-End More Complex",
           "enclosure": {
             "url": "http://files.smashing.media/articles/modern-css-might-make-your-front-end-more-complex/modern-css-might-make-your-front-end-more-complex.jpg",
@@ -279,7 +279,7 @@
           "description": "Let’s kick of November with a new collection of desktop wallpapers! Designed by creatives from across the globe, the wallpapers come in a variety of screen resolutions and can be downloaded for free. Enjoy!",
           "link": "https://smashingmagazine.com/2026/10/desktop-wallpaper-calendars-november-2026/",
           "publishedOn": "2026-10-31T08:00:00.000Z",
-          "wordCount": 4528,
+          "wordCount": 4535,
           "title": "A Spark Of Color In November’s Gray (2026 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8edeb776-d8d5-4b5b-867f-6964f7addcd6/nov-17-colorful-autumn-preview-opt.png",
@@ -341,7 +341,7 @@
           "description": "The Microsoft Azure AI Fundamentals (AI-901) is an entry-level certification that covers AI concepts, Microsoft Foundry, and a set of Azure AI services. It replaces the AI-900, and its exam guide is o",
           "link": "https://www.freecodecamp.org/news/pass-the-microsoft-azure-ai-fundamentals-ai-901-certification-exam/",
           "publishedOn": "2026-11-24T15:54:49.000Z",
-          "wordCount": 1590,
+          "wordCount": 1588,
           "title": "Pass the Microsoft Azure AI Fundamentals (AI-901) Certification Exam",
           "imageUrl": "https://i.ytimg.com/vi/rCx4SCd4N-s/maxresdefault.jpg"
         },
@@ -351,7 +351,7 @@
           "description": "GitHub CLI is a command-line tool that lets you manage GitHub's web features right in your local terminal. You can manage repositories, issues, pull requests, and automation workflows without needing",
           "link": "https://www.freecodecamp.org/news/how-to-use-the-github-cli-with-github-actions/",
           "publishedOn": "2026-11-23T15:17:35.000Z",
-          "wordCount": 3263,
+          "wordCount": 3269,
           "title": "How to Use the GitHub CLI with GitHub Actions",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/4765e26b-1a6a-4ad7-9030-ac357eea5432.png"
         },
@@ -381,7 +381,7 @@
           "description": "When an API releases a new version, every developer using it has to update their code. If they only get a changelog entry that says “pagination now uses cursors,” then they’ll have to figure things ou",
           "link": "https://www.freecodecamp.org/news/how-to-write-an-api-migration-guide/",
           "publishedOn": "2026-11-20T18:40:04.000Z",
-          "wordCount": 5852,
+          "wordCount": 5836,
           "title": "How to Write an API Migration Guide (With a Real Example)",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/47f2ef1a-31ff-4032-9f99-f98e293f7d92.png"
         },
