@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-27T05:32:54.140Z</id>
+    <id>urn:2026-11-28T05:09:27.479Z</id>
     <title>osmos::feed</title>
-    <updated>2026-11-27T05:32:54.140Z</updated>
+    <updated>2026-11-28T05:09:27.479Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Using light-dark() without getting caught out]]></title>
+        <id>https://css-tricks.com/?p=398761</id>
+        <link href="https://css-tricks.com/using-light-dark-without-getting-caught-out/"/>
+        <updated>2026-11-27T16:01:31.000Z</updated>
+        <summary type="html"><![CDATA[I honestly hadn't thought about "getting caught" by light-dark() — particularly when leaning heavily on it for this site — but Martin Underhill explains the user and rendering considerations, making me reflect on my choices as well.
+Using light-dark() without getting caught out originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Wearables Can Turn Your Body Into a Dashboard]]></title>
         <id>6b0740e9d9c19e6e465e6cbf</id>
@@ -311,17 +322,6 @@ Taming Typography: Building a Modern CSS Reset originally handwritten and publis
         <summary type="html"><![CDATA[As LLM chat patterns become more widespread, making them accessible is essential to ensuring everyone can access the information, tools, and opportunities they offer. Drawing on his work improving these interfaces, Eric Bailey shares practical ways to make chat-based experiences on the web more accessible and usable for people who rely on assistive technology.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Eric Bailey)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smashing AI Conference]]></title>
-        <id>https://css-tricks.com/?p=397777</id>
-        <link href="https://css-tricks.com/smashing-ai-conference/"/>
-        <updated>2026-11-04T15:02:51.000Z</updated>
-        <summary type="html"><![CDATA[The AI 2027 Conference is a live online day for designers and engineers on where AI stands today, what to expect in 2027, and where teams are getting it right.
-Smashing AI Conference originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>

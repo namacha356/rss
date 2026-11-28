@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=398761",
+          "author": "Geoff Graham",
+          "description": "I honestly hadn't thought about \"getting caught\" by light-dark() — particularly when leaning heavily on it for this site — but Martin Underhill explains the user and rendering considerations, making me reflect on my choices as well.\nUsing light-dark() without getting caught out originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/using-light-dark-without-getting-caught-out/",
+          "publishedOn": "2026-11-27T16:01:31.000Z",
+          "wordCount": 2448,
+          "title": "Using light-dark() without getting caught out",
+          "imageUrl": "https://css-tricks.com/wp-content/uploads/2018/12/candles-lightbulb-1024x512.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=398743",
           "author": "Geoff Graham",
           "description": "Hey folks! I’m just so dang excited about this little project I’m working on with long-time author Lee Meyer that I had to share it with you before it goes out.\nWe’re going full 2013-meets-2026 with an art-directed piece that …\nRSS Club: Preview Art-Directed Scrollytelling Article originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
@@ -32,7 +42,7 @@
           "description": "Where style queries shine is when the condition and the styles need to live in different places, or when one condition needs to affect several things at once: components that keep working, and adapt sensibly, no matter where they end up.\nStyle Queries as Conditional Modifiers originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/css-style-queries-as-conditional-modifiers/",
           "publishedOn": "2026-11-25T14:06:34.000Z",
-          "wordCount": 3490,
+          "wordCount": 3493,
           "title": "Style Queries as Conditional Modifiers",
           "enclosure": {
             "url": "https://css-tricks.com/wp-content/uploads/2026/11/20261116-1529-04.2595129.mp4",
@@ -97,7 +107,7 @@
           "description": "Imagine a CSS karaoke machine that displays a ball bouncing on text that incrementally highlights, based on progress through via speech recognition and running that kind of animation as a single predictable, holistic effect driven by one progress value.\nStaggering Scroll-Driven Animations with animation-range-start originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
           "link": "https://css-tricks.com/staggering-scroll-driven-animations-with-animation-range-start/",
           "publishedOn": "2026-11-16T16:47:05.000Z",
-          "wordCount": 3729,
+          "wordCount": 3732,
           "title": "Staggering Scroll-Driven Animations with animation-range-start",
           "imageUrl": "https://css-tricks.com/wp-content/uploads/2019/06/staggered-items.png"
         },
@@ -165,16 +175,6 @@
           "wordCount": 5112,
           "title": "Taming Typography: Building a Modern CSS Reset",
           "imageUrl": "https://css-tricks.com/wp-content/uploads/2019/02/text-wrap.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=397777",
-          "author": "Geoff Graham",
-          "description": "The AI 2027 Conference is a live online day for designers and engineers on where AI stands today, what to expect in 2027, and where teams are getting it right.\nSmashing AI Conference originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/smashing-ai-conference/",
-          "publishedOn": "2026-11-04T15:02:51.000Z",
-          "wordCount": 2093,
-          "title": "Smashing AI Conference",
-          "imageUrl": "https://css-tricks.com/wp-content/uploads/2026/11/all.png"
         }
       ]
     },
@@ -341,7 +341,7 @@
           "description": "The Microsoft Azure AI Fundamentals (AI-901) is an entry-level certification that covers AI concepts, Microsoft Foundry, and a set of Azure AI services. It replaces the AI-900, and its exam guide is o",
           "link": "https://www.freecodecamp.org/news/pass-the-microsoft-azure-ai-fundamentals-ai-901-certification-exam/",
           "publishedOn": "2026-11-24T15:54:49.000Z",
-          "wordCount": 1588,
+          "wordCount": 1590,
           "title": "Pass the Microsoft Azure AI Fundamentals (AI-901) Certification Exam",
           "imageUrl": "https://i.ytimg.com/vi/rCx4SCd4N-s/maxresdefault.jpg"
         },
@@ -351,7 +351,7 @@
           "description": "GitHub CLI is a command-line tool that lets you manage GitHub's web features right in your local terminal. You can manage repositories, issues, pull requests, and automation workflows without needing",
           "link": "https://www.freecodecamp.org/news/how-to-use-the-github-cli-with-github-actions/",
           "publishedOn": "2026-11-23T15:17:35.000Z",
-          "wordCount": 3269,
+          "wordCount": 3267,
           "title": "How to Use the GitHub CLI with GitHub Actions",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/4765e26b-1a6a-4ad7-9030-ac357eea5432.png"
         },
@@ -361,7 +361,7 @@
           "description": "Working on machine learning projects in production can be a bit challenging. If you've built models in real-world environments, you know how quickly things get complicated once you step outside the cl",
           "link": "https://www.freecodecamp.org/news/how-to-standardize-mlops-reporting-and-evaluation-using-an-open-source-python-package/",
           "publishedOn": "2026-11-23T15:13:31.000Z",
-          "wordCount": 4006,
+          "wordCount": 4007,
           "title": "How to Standardize MLOps Reporting and Evaluation using an Open Source Python Package",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/6b9dbd57-7ff7-497d-9b6c-7c5810f2ec81.png"
         },
